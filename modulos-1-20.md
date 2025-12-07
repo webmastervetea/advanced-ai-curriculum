@@ -3,7 +3,7 @@
 
 ### 📚 Temas Avanzados
 #### 1. Fundamentos Matemáticos y Estadísticos Avanzados 
-* [[1.1]()]  **Álgebra Lineal** para redes neuronales (Descomposición en valores singulares - **SVD**, tensores).
+* [[1.1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-1-algebra-lineal-el-fundamento-de-las-redes-neuronales.md)]  **Álgebra Lineal** para redes neuronales (Descomposición en valores singulares - **SVD**, tensores).
 * [[1.2]()]  **Cálculo Multivariable** y **Optimización** (descenso de gradiente estocástico avanzado, optimizadores **ADAM**, **RMSprop**).
 * [[1.3]()]  **Teoría de la Información** (entropía, información mutua).
 
@@ -156,6 +156,7 @@
 * 20.3 **Aprendizaje por Imitación (*Imitation Learning*) y Aprendizaje Inverso (*Inverse Reinforcement Learning - IRL*):**
     * [[20.3.1]()] Aprender una política directamente a partir de demostraciones de expertos.
     * [[20.3.2]()] Inferir la función de recompensa subyacente de un experto.
+
 
 
 

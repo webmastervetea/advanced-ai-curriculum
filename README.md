@@ -1,5 +1,5 @@
-## 💾 Detalles del Repositorio
-* **Nombre del Repositorio:** `Advanced-AI-Curriculum`
+## 💾 Detalles del Repositorio [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
+* **Nombre del Repositorio:** `advanced-ai-curriculum`
 * **Título del Proyecto:** **Temario de Inteligencia Artificial Avanzada: Modelos, Deep Learning y Sistemas de Agentes**
 
 ## 📝 Descripción del Repositorio
@@ -9,3 +9,4 @@ Cubre temas esenciales como el **Deep Learning** (aprendizaje profundo), los **m
 
 El objetivo es proporcionar una base sólida para que los estudiantes y profesionales puedan desarrollar e implementar sistemas de IA sofisticados y responsables.
 
+[[Modulos 1 a 20]()], [[Modulos 21 a 40]()], [[Modulos 41 a 60]()], [[Modulos 61 a 80]()], [[Modulos 81 a 100]()]

@@ -85,5 +85,7 @@ El Álgebra Lineal también sienta las bases para el proceso de aprendizaje, la 
 El entendimiento de estas estructuras algebraicas permite a los profesionales optimizar no solo los hiperparámetros, sino la **estructura interna de los tensores** que componen el modelo, lo que conduce a una IA más eficiente y con un mejor rendimiento.
 
 ---
+Continua 1-2: [[]()]
+
 
 

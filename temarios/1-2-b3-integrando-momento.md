@@ -1,7 +1,3 @@
-¡Absolutamente! El concepto de **Momento (Momentum)** es una de las primeras y más cruciales mejoras al Descenso de Gradiente Estocástico (SGD). Transforma el proceso de optimización, dándole una "memoria" para acelerar la convergencia y suavizar el camino.
-
-***
-
 ## 🚀 Integrando el Momento: El Descenso de Gradiente con Memoria
 
 El problema del Descenso de Gradiente Estocástico (SGD) simple es que se comporta como una persona que camina por una colina con niebla: solo ve el gradiente inmediato. Esto conduce a dos ineficiencias clave:

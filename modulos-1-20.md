@@ -31,7 +31,6 @@
 * 6.3 **Robustez** y **Ataques Adversarios**.
 * 6.4 **Regulación de la IA** (**AI Act** de la UE, etc.).
   
-## 🔬 Temas de Vanguardia y Especialización
 ### 🔬 Temas de Vanguardia y Especialización
 #### 7. Arquitectura de Sistemas y Despliegue de IA (MLOps Avanzado)
 * 7.1 **Computación de Alto Rendimiento (HPC) para DL:**
@@ -63,5 +62,6 @@
 ### 🌐 Temas de Optimización y Sistemas Dinámicos
 #### 19. Optimización Basada en IA y Algoritmos Bio-inspirados
 #### 20. IA en Sistemas de Tiempo Real y Control
+
 
 

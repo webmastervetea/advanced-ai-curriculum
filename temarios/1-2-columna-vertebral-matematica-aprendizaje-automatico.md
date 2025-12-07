@@ -80,4 +80,4 @@ El Cálculo Multivariable proporciona el **lenguaje** (el gradiente y la retropr
 
 Sin la sinergia entre el cálculo multivariable para el gradiente y estos optimizadores avanzados, el *Deep Learning* simplemente no sería viable a la escala y velocidad actuales.
 
-Continua: [Retropropagación: El Arte de la Regla de la Cadena Aplicada](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-b1-retropropagacion-arte-cadena-aplicada.md)]
+Continua: [Retropropagación: El Arte de la Regla de la Cadena Aplicada](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-b1-retropropagacion-arte-cadena-aplicada.md)

@@ -42,26 +42,120 @@
 * 7.3 **Monitorización en Producción:**
     * 7.3.1 Detección de **Deriva de Datos** (*Data Drift*) y **Deriva de Modelos** (*Model Drift*).     
 #### 8. Aprendizaje No Supervisado y Semisupervisado Avanzado
-
+* 8.1 **Aprendizaje Autosupervisado (*Self-Supervised Learning - SSL*):**
+    * 8.1.1 Técnicas basadas en contrastes (**SimCLR**, **MoCo**) para aprender representaciones sin etiquetas.
+    * 8.1.2 SSL aplicado a visión y lenguaje.
+* 8.2 **Transferencia de Aprendizaje (Transfer Learning) Profunda:**
+    * 8.2.1 Adaptación de Dominio (*Domain Adaptation*).
+    * 8.2.2 *Few-Shot* y *Zero-Shot Learning* (Aprender con muy pocos o ningún ejemplo).
 #### 9. Técnicas Avanzadas de Investigación en IA
-
+* 9.1 **Inferencia Causal y Descubrimiento Causal:**
+    * 9.1.1 Modelos gráficos causales (DAGs) y el cálculo *do*.
+    * 9.1.2 Diferenciación entre correlación y causalidad en la toma de decisiones.
+* 9.2 **Programación Diferenciable:**
+    * 9.2.1 El concepto de que cualquier programa puede ser diferenciable y optimizable (*Differentiable Programming*).
+    * 9.2.2 Aplicaciones en optimización de algoritmos complejos.
+* 9.3 **Redes Neuronales Gráficas (GNNs):**
+    * 9.3.1 Aplicación de *Deep Learning* a datos no euclidianos (grafos).
+    * 9.4.1 Usos en redes sociales, química de moléculas y sistemas de recomendación.
 #### 10. Inteligencia Artificial en Ámbitos Específicos
-
+* 10.1 **Aprendizaje por Refuerzo Offline (*Offline RL*):**
+    * 10.1.1 Aprender políticas de sistemas a partir de un conjunto de datos estático, sin interacción con el entorno (crucial en robótica y medicina).
+* 10.2 **Visión por Computadora 3D:**
+    * 10.2.1 Procesamiento de **Nubes de Puntos** (*Point Clouds*) y **Voxelización**.
+    * 10.2.2 Detección de objetos y segmentación en entornos 3D (LiDAR, Realidad Aumentada).
+* 10.3 **IA para la Ciencia:**
+    * 10.3.1 **Descubrimiento de Fármacos** (predicción de propiedades moleculares).
+    * 10.3.2 **Modelado del Clima** y predicción meteorológica avanzada con *Deep Learning*.
 ### 🚀 Temas de Máxima Especialización
 #### 11. Modelado Probabilístico Avanzado
+* 11.1 **Inferencia Bayesiana Profunda (*Deep Bayesian Learning*):**
+    * 11.1.1 Uso de redes neuronales para aprender distribuciones de probabilidad sobre pesos y predicciones.
+    * 11.1.2 Cuantificación de la **Incertidumbre** (*Uncertainty Quantification*) para tomar decisiones informadas, esencial en aplicaciones críticas.
+    * 11.1.3 Métodos de **Monte Carlo de Cadena de Markov (MCMC)** y **Variational Inference** (*Inferencia Variacional*).
+* 11.2 **Modelos de Espacio Latente (*Latent Space Models*):**
+    * 11.2.1 Técnicas para descubrir estructuras ocultas (*latent structure*) en datos complejos.
+* 11.3 **Procesos Gaussianos (GPs):**
+    * 11.3.1 Uso como métodos de regresión no paramétricos y su aplicación en la **Optimización Bayesiana** (fundamental para la búsqueda eficiente de hiperparámetros).
+
 #### 12. Interacción Humano-IA y Sistemas de Búsqueda
+* 12.1 **Inteligencia Artificial Conversacional Avanzada:**
+    * 12.1.1 Diseño de diálogos (*Dialogue Systems*) y gestión de estados conversacionales complejos.
+    * 12.1.2 Fusión de información multimodal (texto, voz, imagen) en sistemas de diálogo.
+* 12.2 **Sistemas de Recuperación de Información (*Information Retrieval - IR*):**
+    * 12.2.1 **Retrieval-Augmented Generation (RAG):** Integrar modelos generativos (LLMs) con bases de datos externas para grounding y reducir alucinaciones.
+    * 12.2.2 **Búsqueda Vectorial** y uso de bases de datos de vectores (*Vector Databases*) para un *retrieval* eficiente.
+
 #### 13. Optimización y Hardware de IA
+* 13.1 **Optimización de Modelos para Edge/Móvil:**
+    * 13.1.1 Técnicas de **Destilación de Conocimiento** (*Knowledge Distillation*), donde un modelo grande enseña a uno pequeño.
+    * 13.1.2 Optimización de modelos para funcionar en hardware con recursos limitados (**Edge AI**).
+* 13.2 **Hardware Específico para IA:**
+    * 13.2.1 Arquitecturas de **Unidades de Procesamiento Tensorial (TPUs)** de Google.
+    * 13.2.2 Introducción a la **Computación Neuromórfica** (hardware que imita la estructura del cerebro). 
+
 #### 14. Aprendizaje Federado y Privacidad
+* 14.1 **Aprendizaje Federado (*Federated Learning*):**
+    14.1.1 * Entrenamiento de modelos en múltiples dispositivos descentralizados sin compartir datos sensibles.
+    14.1.2 * Estrategias de agregación de modelos (**Federated Averaging - FedAvg**).
+* 14.2 **IA Preservadora de la Privacidad:**
+    * 14.2.1 **Cifrado Homomórfico** y su potencial para la inferencia de IA sobre datos cifrados.
+    * 14.2.2 **Privacidad Diferencial** (*Differential Privacy*) para agregar ruido y proteger la identidad de los datos.
 
 ### 🔬 Temas de Investigación y Frontera
 #### 15. Robustez y Seguridad de la IA (AI Safety)
+* 15.1 **Ataques Adversarios y Defensa:**
+    * 15.1.1 Generación de ejemplos adversarios (**ataques de *White-Box*** y ***Black-Box***) para engañar modelos de clasificación.
+    * 15.1.2 Técnicas de defensa y mitigación (*Adversarial Training*, detección de entradas atípicas).
+* 15.2 **Monitoreo de Modelos y Detección de *Drift*:**
+    * 15.2.1 Detección de **Deriva de Concepto** (*Concept Drift*) y **Deriva de Datos** (*Data Drift*) en tiempo real.
+    * 15.2.2 Métodos para asegurar la **confiabilidad** a largo plazo de los modelos desplegados.
 #### 16. Neurociencia Computacional y Sistemas Cognitivos
+* 16.1 **Modelos de Cerebro y Conectividad:**
+    * 16.1.1 Modelos de redes neuronales biológicas (ej. *Spiking Neural Networks - SNNs*) que intentan replicar la temporalidad del cerebro.
+    * 16.1.2 Principios de aprendizaje biológico (plasticidad sináptica) aplicados a la IA.
+* 16.2 **IA Simbólica (*Good Old-Fashioned AI - GOFAI*) y Híbrida:**
+    * 16.2.1 **Razonamiento y Lógica:** Integración de sistemas de *Deep Learning* con bases de conocimiento y razonamiento lógico formal (IA Híbrida).
+    * 16.2.2 Programación Lógica Inductiva (ILP) para el aprendizaje de reglas.
+
 #### 17. Inteligencia Artificial Cuántica (QML)
+* 17.1 **Fundamentos de la Computación Cuántica:**
+    * 17.1.1 Conceptos de *qubits*, superposición y entrelazamiento.
+    * 17.1.2 Algoritmos cuánticos relevantes (ej. *Grover*, *Shor*).
+* 17.2 **Algoritmos de *Quantum Machine Learning*:**
+    * 17.2.1 **Clasificadores Cuánticos Variacionales (VQC)**.
+    * 17.2.2 **Redes Neuronales Cuánticas (QNNs)** y cómo se utilizan los principios cuánticos para el procesamiento de datos. 
 #### 18. IA de Propósito General (*General AI*) y Planificación Avanzada
+* 18.1 **Planificación y Resolución de Problemas:**
+    * 18.1.1 Algoritmos de búsqueda avanzados (*Monte Carlo Tree Search - MCTS*, utilizado en AlphaGo).
+    * 18.1.2 Planificación basada en modelos y entornos complejos.
+* 18.2 ***Meta-Learning* (Aprender a Aprender):**
+    * 18.2.1 Entrenamiento de modelos para que puedan adaptarse rápidamente a nuevas tareas con una cantidad mínima de datos (ej. **MAML - *Model-Agnostic Meta-Learning***).
+* 18.3 **Teoría de Agentes e Inteligencia Colectiva:**
+    * 18.3.1 Diseño de agentes autónomos y su interacción.
+    * 18.3.2 Modelado de la **cooperación** y la **competencia** en sistemas multi-agente complejos.
 
 ### 🌐 Temas de Optimización y Sistemas Dinámicos
 #### 19. Optimización Basada en IA y Algoritmos Bio-inspirados
+* 19.1 **Optimización Bayesiana (BO):**
+    * 19.1.1 Uso de Procesos Gaussianos para modelar funciones objetivo caras o ruidosas.
+    * 19.1.2 Aplicación de BO en el ajuste automatizado de hiperparámetros (**AutoML**).
+* 19.2 **Algoritmos Metaheurísticos:**
+    * 19.2.1 **Algoritmos Genéticos (GA)** y **Programación Genética** para la búsqueda y optimización de soluciones en espacios complejos.
+    * 19.2.2 Optimización por Colonia de Hormigas (ACO) y otros métodos bio-inspirados para problemas de ruteo y asignación.
+* 19.3 **Optimización con Restricciones:**
+    * 19.3.1 Técnicas para resolver problemas de optimización donde el espacio de soluciones está limitado por reglas específicas.
+
 #### 20. IA en Sistemas de Tiempo Real y Control
+* 20.1 **Aprendizaje por Refuerzo Continuo y Asíncrono:**
+    * 20.1.1 Algoritmos diseñados para entornos donde las acciones y el estado son continuos (**DDPG**, **TD3**).
+    * 20.1.2 Aplicación en el control de robots y sistemas de potencia.
+* 20.2 **Filtros de Kalman y Estimación de Estado:**
+    * 20.2.1 Uso de métodos probabilísticos para estimar el estado de un sistema dinámico a partir de mediciones ruidosas.
+    * 20.2.2 Integración de Filtros de Kalman con Redes Neuronales (*Deep Learning*).
+* 20.3 **Aprendizaje por Imitación (*Imitation Learning*) y Aprendizaje Inverso (*Inverse Reinforcement Learning - IRL*):**
+    * 20.3.1 Aprender una política directamente a partir de demostraciones de expertos.
+    * 20.3.2 Inferir la función de recompensa subyacente de un experto.
 
 
 

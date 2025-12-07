@@ -75,4 +75,4 @@ El peso $w_1$ ha sido ligeramente **aumentado**. Si volviéramos a ejecutar la P
 
 Este proceso, que hemos simplificado a una sola neurona, se repite para **todos los millones de pesos** en cada capa de una red profunda, utilizando los gradientes calculados en las capas posteriores para informar los gradientes en las capas anteriores.
 
-Continua 1-2-b3: [[]()]
+Continua 1-2-b3: [[dd]()]

@@ -3,11 +3,15 @@
 
 ### 📚 Temas Avanzados
 #### 1. Fundamentos Matemáticos y Estadísticos Avanzados 
-* 1.1 * **Álgebra Lineal** para redes neuronales (Descomposición en valores singulares - **SVD**, tensores).
-* 1.2 * **Cálculo Multivariable** y **Optimización** (descenso de gradiente estocástico avanzado, optimizadores **ADAM**, **RMSprop**).
-* 1.3 * **Teoría de la Información** (entropía, información mutua).
+* 1.1  **Álgebra Lineal** para redes neuronales (Descomposición en valores singulares - **SVD**, tensores).
+* 1.2  **Cálculo Multivariable** y **Optimización** (descenso de gradiente estocástico avanzado, optimizadores **ADAM**, **RMSprop**).
+* 1.3  **Teoría de la Información** (entropía, información mutua).
 
 #### 2. Deep Learning Avanzado (DL)
+* 2.1  **Redes Neuronales Recurrentes (RNN)**, **Long Short-Term Memory (LSTM)** y **Gated Recurrent Units (GRU)**.
+* 2.2  **Modelos de Transformadores** y **Mecanismos de Atención** (la base de **LLMs** y modelos de visión avanzados).
+* 2.3  **Diseño y Optimización de Hiperparámetros**.
+
 #### 3. Modelos Generativos y Autoencoders
 #### 4. Aprendizaje por Refuerzo (RL)
 #### 5. Procesamiento del Lenguaje Natural (NLP) Avanzado
@@ -34,3 +38,4 @@
 ### 🌐 Temas de Optimización y Sistemas Dinámicos
 * 19. Optimización Basada en IA y Algoritmos Bio-inspirados
 * 20. IA en Sistemas de Tiempo Real y Control
+

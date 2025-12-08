@@ -84,4 +84,4 @@ El diseño de diálogos sigue siendo un arte y una ciencia que busca equilibrar 
 
 ---
 
-Continua: [[12-1-2]()] 
+Continua: [[12-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/12-1-2-fusion-de-informacion-multimodal.md)] 

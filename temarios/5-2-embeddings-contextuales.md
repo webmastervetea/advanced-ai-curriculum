@@ -74,5 +74,5 @@ En resumen, el *embedding* contextual representa la evolución de la representac
 
 ---
 
-Continua: [[5-2-b1]()] 
+Continua: [[5-2-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/5-2-b1-atencion-bidireccional.md)] 
 

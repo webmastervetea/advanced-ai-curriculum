@@ -56,3 +56,8 @@ La Atención Cruzada es superior a la simple concatenación de *embeddings* por 
 | **Robustez** | Robusto a *inputs* ruidosos o irrelevantes en la modalidad secundaria (simplemente les asigna un peso de atención bajo). | Susceptible al ruido en cualquiera de las modalidades concatenadas. |
 
 En esencia, la Atención Cruzada es el mecanismo que otorga a los sistemas de diálogo la capacidad de **razonar relacionalmente** entre diferentes percepciones, permitiendo una comprensión contextual que imita de cerca la complejidad y la riqueza de la comunicación humana.
+
+
+---
+
+Continua: [[12-2-1]()] 

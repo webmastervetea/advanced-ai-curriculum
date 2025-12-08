@@ -78,4 +78,4 @@ Este proceso, que hemos simplificado a una sola neurona, se repite para **todos 
 
 ---
 
-Continua: [[1-2-b3]()] 
+Continua: [[1-2-b3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-b3-integrando-momento.md)] 

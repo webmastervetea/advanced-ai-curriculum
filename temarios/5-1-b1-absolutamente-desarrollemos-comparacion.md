@@ -59,3 +59,8 @@ La elección entre los métodos de ajuste fino se reduce a la disponibilidad de 
 | **Casos de Uso Empresarial / Producción / Recurso Limitado** | **LoRA (PEFT)** | La eficiencia en VRAM, la velocidad de entrenamiento y la facilidad de almacenamiento y gestión de múltiples adaptadores superan la ligera pérdida de rendimiento teórico. |
 
 En el panorama actual de los LLMs (modelos de miles de millones de parámetros), **LoRA** se ha convertido en la solución de facto para la mayoría de las aplicaciones. Permite a las empresas mantener un único modelo base (como Llama 3) y entrenar cientos de adaptadores LoRA específicos (para servicio al cliente, legal, técnico, etc.), desplegándolos según la necesidad, sin requerir el entrenamiento o el almacenamiento de múltiples copias completas del LLM.
+
+
+---
+
+Continua: [[5-2]()] 

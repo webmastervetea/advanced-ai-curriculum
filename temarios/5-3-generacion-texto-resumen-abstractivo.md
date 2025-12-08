@@ -83,4 +83,4 @@ Aunque ROUGE es imperfecto (prefiere la superposición literal), sigue siendo la
 
 ---
 
-Continua: [[6-1]()] 
+Continua: [[6-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/6-1-mitigacion-de-sesgos.md)] 

@@ -57,5 +57,5 @@ En resumen, la Optimización Bayesiana proporciona la inteligencia necesaria par
 
 ---
 
-Continua: [[19-2-1]()] 
+Continua: [[19-1-2-b1]()] 
 

@@ -43,3 +43,8 @@ La atención causal impone una restricción artificial al mecanismo de Auto-Aten
 | **Restricción** | No hay. Acceso libre a toda la secuencia. | Sí. Máscara triangular superior para bloquear el contexto futuro. |
 | **Función Primaria** | **Comprensión** y extracción de características. | **Generación** secuencial y auto-regresiva. |
 | **Ejemplo de Tarea** | Clasificación de texto. | Respuesta a *prompts*, generación de historias. |
+
+
+---
+
+Continua: [[5-3]()] 

@@ -64,4 +64,4 @@ Esta combinación es lo que permite a las organizaciones entrenar modelos con mi
 
 ---
 
-Continua: [[7-1-2]()] 
+Continua: [[7-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-1-2-entrenamiento-distribuido-modelos-grandes.md)] 

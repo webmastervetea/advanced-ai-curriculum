@@ -82,4 +82,4 @@ El diseño de agentes autónomos y su interacción está evolucionando rápidame
 
 ---
 
-Continua: [[18-3-2]()] 
+Continua: [[18-3-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/18-3-2-modelado-de-la-cooperacion.md)] 

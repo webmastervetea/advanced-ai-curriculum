@@ -74,3 +74,8 @@ En entornos complejos que cambian con el tiempo (ej. la dinámica de un suelo qu
 * El agente debe ser capaz de **detectar la deriva de concepto** en su modelo de entorno y reentrenarlo de forma incremental.
 
 La Planificación Basada en Modelos es el camino hacia una IA con **capacidad de razonamiento**, permitiéndole imaginar y evaluar múltiples futuros posibles, una habilidad clave para operar de forma segura y eficiente en el mundo real.
+
+
+---
+
+Continua: [[18-2-1]()] 

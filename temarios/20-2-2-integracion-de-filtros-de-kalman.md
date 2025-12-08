@@ -57,4 +57,4 @@ La combinación de la estructura probabilística del Filtro de Kalman con la fle
 
 ---
 
-Continua: [[20-3-1]()] 
+Continua: [[20-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-1-aprender-una-politica.md)] 

@@ -67,3 +67,8 @@ $$h_t = (1 - z_t) * h_{t-1} + z_t * \tilde{h}_t$$
 
 La principal ventaja de esta notación es ver cómo las GRU utilizan el mismo conjunto de operaciones (multiplicación matricial, sumas y activaciones) pero con un **menor número de parámetros** (solo dos compuertas principales), lo que las hace más eficientes.
 
+
+
+---
+
+Continua: [[2-1-b2]()] 

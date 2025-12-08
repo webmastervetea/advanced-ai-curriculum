@@ -61,3 +61,8 @@ La implementación de RAG no es trivial; la calidad de la respuesta depende de l
 * **Compresión de Contexto:** Utilizar modelos para resumir los fragmentos recuperados antes de pasarlos al *prompt* del LLM, asegurando que solo la información crítica se use, especialmente bajo las restricciones de la ventana de contexto.
 
 RAG ha pasado de ser una técnica de investigación a ser la **arquitectura de producción estándar** para crear aplicaciones de IA conversacional fiables y empresariales, resolviendo de manera elegante el dilema entre la fluidez del lenguaje y la fidelidad factual.
+
+
+---
+
+Continua: [[12-2-2]()] 

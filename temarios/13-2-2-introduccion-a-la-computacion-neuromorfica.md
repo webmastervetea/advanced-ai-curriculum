@@ -58,5 +58,8 @@ A pesar de su promesa, la computación neuromórfica aún enfrenta desafíos sig
 
 La computación neuromórfica está destinada a ser la solución de *hardware* para los futuros requisitos de IA en el *Edge*, llevando capacidades de procesamiento cerebral sofisticadas y ultrarrápidas a dispositivos de bajo consumo.
 
+
+
 ---
 
+Continua: [[13-2-2-b1]()] 

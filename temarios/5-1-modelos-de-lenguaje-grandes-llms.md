@@ -72,4 +72,8 @@ El CoT ha demostrado ser crucial para que los LLMs realicen razonamientos comple
 
 La evolución de la Ingeniería de Prompts, desde simples instrucciones hasta estructuras de razonamiento complejas, refleja la creciente sofisticación de los LLMs y la necesidad de "hablar su idioma" para liberar todo su potencial.
 
+
+
 ---
+
+Continua: [[5-1-b1]()] 

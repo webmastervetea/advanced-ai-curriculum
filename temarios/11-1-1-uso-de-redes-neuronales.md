@@ -74,3 +74,8 @@ El BDL y el modelado probabilístico son cruciales para sistemas que deben opera
 * **Diagnóstico Médico:** Un modelo que predice un diagnóstico debe acompañar la predicción con un intervalo de confianza. Si el modelo es muy incierto, se requiere la intervención y validación de un experto humano.
 
 Al cambiar el enfoque de "dar la respuesta correcta" a "dar la respuesta más probable junto con la confianza en esa respuesta", la Programación Diferenciable (BDL) permite que los sistemas de IA sean más transparentes, confiables y éticos.
+
+
+---
+
+Continua: [[11-1-2]()] 

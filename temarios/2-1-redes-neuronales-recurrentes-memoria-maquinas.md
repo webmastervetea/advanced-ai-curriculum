@@ -108,4 +108,4 @@ Estos modelos son la base de aplicaciones de vanguardia como la traducción auto
 
 ---
 
-Continua: [[2-1-b1]()] 
+Continua: [[2-1-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-1-b1-desarrollo-matem%C3%A1tico-de-las-compuertas-recurrentes.md)] 

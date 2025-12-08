@@ -98,3 +98,8 @@ Esto hace que la generación sea mucho más rápida y eficiente en términos de 
 | **Inferencia/Generación** | Muy rápida (un solo paso). | Muy rápida (un solo paso). | **Lenta** (requiere cientos o miles de pasos secuenciales). |
 
 Los Modelos de Difusión combinan la **estabilidad** del entrenamiento de los VAEs con la capacidad de generar **imágenes de alta fidelidad y nitidez** de las GANs. Su éxito se basa en descomponer una tarea compleja (generar una imagen) en una secuencia de tareas simples (eliminar pequeñas cantidades de ruido).
+
+
+---
+
+Continua: [[4-1]()] 

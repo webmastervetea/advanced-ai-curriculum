@@ -82,4 +82,4 @@ En resumen, la Destilación de Conocimiento es una herramienta esencial en el *D
 
 ---
 
-Continua: [[13-1-2]()] 
+Continua: [[13-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/13-1-2-optimizacion-de-modelo.md)] 

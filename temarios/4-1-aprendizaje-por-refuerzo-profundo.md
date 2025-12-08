@@ -95,3 +95,7 @@ El Deep RL ha permitido que los agentes aprendan políticas óptimas en entornos
 
 La combinación de estas técnicas ha llevado a avances en robótica, juegos complejos y sistemas de control autónomo.
 
+
+---
+
+Continua: [[4-1-b1]()] 

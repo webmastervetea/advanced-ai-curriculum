@@ -62,3 +62,8 @@ La DP es fundamental para el **Aprendizaje Automático que preserva la privacida
 * El **Censo de EE. UU. de 2020** fue el primer censo que utilizó la Privacidad Diferencial para proteger las estadísticas publicadas. Esto garantiza que nadie pueda utilizar el censo para re-identificar a los individuos, incluso después de que los datos han sido agregados en la distribución geográfica.
 
 La Privacidad Diferencial se ha convertido en el estándar de oro para el equilibrio entre la **utilidad de los datos** (capacidad de extraer conocimiento) y la **privacidad individual**, proporcionando la garantía matemática que faltaba en los métodos de anonimización más antiguos.
+
+
+---
+
+Continua: [[15-1-1]()] 

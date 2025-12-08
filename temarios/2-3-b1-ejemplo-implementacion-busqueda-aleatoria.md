@@ -66,4 +66,4 @@ La Búsqueda Aleatoria maximiza la posibilidad de probar valores únicos y poten
 
 ---
 
-Continua: [[3-1]()] 
+Continua: [[3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/3-1-autoencoders-variacionales-vae.md)] 

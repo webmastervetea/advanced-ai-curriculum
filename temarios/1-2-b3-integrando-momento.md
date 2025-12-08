@@ -70,3 +70,7 @@ $$w_{nuevo} = 0.3 + 0.0000793 \approx \mathbf{0.3000793}$$
 $$v_2 = \underbrace{0.9 \cdot (-0.000793)}_{\text{Inercia del paso anterior}} + \underbrace{0.1 \cdot (\nabla L_{t=2})}_{\text{Gradiente actual}}$$
 
 A lo largo de muchas iteraciones, la inercia del $0.9 \cdot v_{t-1}$ se convierte en la fuerza dominante, empujando al peso en la dirección consistente que ha demostrado reducir la pérdida de manera más efectiva.
+
+---
+
+Continua: [[1-3]()] 

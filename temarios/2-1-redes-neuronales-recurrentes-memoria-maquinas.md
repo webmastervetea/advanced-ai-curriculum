@@ -104,3 +104,8 @@ En la práctica, la elección entre LSTM y GRU a menudo se reduce a la tarea esp
 
 Estos modelos son la base de aplicaciones de vanguardia como la traducción automática, la generación de texto (parte de la base de los modelos de lenguaje modernos), el reconocimiento de voz y la predicción de series temporales.
 
+
+
+---
+
+Continua: [[2-1-b1]()] 

@@ -63,3 +63,8 @@ El RL *Offline* no es solo una solución de nicho, sino un puente hacia un RL m�
 * **Modelos del Mundo (*World Models*):** La combinación del RL *Offline* con modelos que intentan aprender una simulación precisa del entorno directamente a partir de los datos históricos.
 
 En resumen, el Aprendizaje por Refuerzo *Offline* representa un cambio fundamental, al transformar el desafío de la escasez de interacción en un problema de **gestión de la incertidumbre** y **control de la extrapolación**. Sus avances son esenciales para la aplicación segura y ética del RL en los dominios de alto riesgo.
+
+
+---
+
+Continua: [[10-2-1]()] 

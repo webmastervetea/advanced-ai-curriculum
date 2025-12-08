@@ -61,3 +61,8 @@ Ambas técnicas son valiosas donde la búsqueda de soluciones es difícil:
 | **Programación Genética (GP)** | **Descubrimiento de Fórmulas:** Regresión simbólica, creación de clasificadores, diseño de circuitos. | La **estructura** y la **lógica** del programa/fórmula. |
 
 En resumen, los Algoritmos Genéticos y la Programación Genética ofrecen un enfoque robusto y flexible para la optimización y el aprendizaje. Al imitar el poder de la evolución natural, permiten a las máquinas diseñar sus propias soluciones y algoritmos, incluso en los entornos computacionales más desafiantes.
+
+
+---
+
+Continua: [[19-2-2]()] 

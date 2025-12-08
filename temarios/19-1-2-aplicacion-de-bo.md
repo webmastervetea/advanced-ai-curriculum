@@ -53,5 +53,9 @@ La BO se extiende más allá del ajuste de hiperparámetros a la **Búsqueda de 
 
 En resumen, la Optimización Bayesiana proporciona la inteligencia necesaria para navegar eficientemente por el costoso espacio de búsqueda de hiperparámetros. Al basarse en la probabilidad y la incertidumbre, transforma el ajuste de hiperparámetros de un proceso de prueba y error a un proceso de toma de decisiones estratégicas.
 
+
+
 ---
+
+Continua: [[19-2-1]()] 
 

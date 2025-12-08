@@ -76,4 +76,4 @@ En conclusión, la **Búsqueda Vectorial y las Bases de Datos de Vectores** son 
 
 ---
 
-Continua: [[13-1-1]()] 
+Continua: [[13-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/13-1-1-tecnicas-de-destilacion-de-conocimiento.md)] 

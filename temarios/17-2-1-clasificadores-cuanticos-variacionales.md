@@ -64,3 +64,8 @@ El principal desafío que enfrentan los VQC es el fenómeno del **Barren Plateau
 * **Problema:** Esto hace que el optimizador clásico no pueda encontrar la dirección correcta para ajustar los parámetros, deteniendo el aprendizaje.
 
 La investigación actual se centra en diseñar Ansätze que eviten esta meseta y en desarrollar optimizadores cuánticos o clásicos más eficientes. El VQC es una herramienta poderosa que conecta la mecánica cuántica con el aprendizaje automático, ofreciendo un camino práctico para explotar el poder del procesamiento cuántico en la era inmediata.
+
+
+---
+
+Continua: [[17-2-2]()] 

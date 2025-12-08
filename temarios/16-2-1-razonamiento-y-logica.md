@@ -76,3 +76,8 @@ La IA Híbrida es clave para crear sistemas más avanzados que operen en entorno
 * **Robótica y Planificación:** Los modelos de *Deep Learning* perciben el entorno (visión), mientras que los módulos lógicos planifican la secuencia óptima de acciones para alcanzar un objetivo.
 
 La IA Híbrida abandona la dicotomía histórica entre el procesamiento numérico y el procesamiento simbólico, buscando construir una inteligencia artificial unificada que pueda percibir el mundo y razonar sobre él con coherencia y fiabilidad.
+
+
+---
+
+Continua: [[16-2-2]()] 

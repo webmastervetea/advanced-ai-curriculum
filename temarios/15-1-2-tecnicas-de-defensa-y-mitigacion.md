@@ -68,4 +68,4 @@ La **Robustez Adversaria** no es un estado binario, sino un continuo. El **Entre
 
 ---
 
-Continua: [[15-2-1]()] 
+Continua: [[15-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/15-2-1-deteccion-de-deriva-de-concepto.md)] 

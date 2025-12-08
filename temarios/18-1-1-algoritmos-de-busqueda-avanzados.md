@@ -66,3 +66,8 @@ AlphaGo reemplazó la simulación *rollout* simple con una **Red de Valor (*Valu
 * **Impacto en MCTS:** Cuando MCTS llega a un nodo hoja, en lugar de simular aleatoriamente hasta el final, la Red de Valor **estima la probabilidad de victoria** a partir de ese estado. Esto ahorró mucho tiempo de cómputo que de otro modo se gastaría en simulaciones, permitiendo que el árbol creciera más profundamente y de forma más precisa.
 
 La combinación de la eficiencia de búsqueda de MCTS con la percepción profunda de las redes neuronales creó un sistema de IA que superó la capacidad humana en la estrategia de juego.
+
+
+---
+
+Continua: [[10-1-2]()] 

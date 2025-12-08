@@ -63,4 +63,4 @@ En el panorama actual de los LLMs (modelos de miles de millones de parámetros),
 
 ---
 
-Continua: [[5-2]()] 
+Continua: [[5-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/5-2-embeddings-contextuales.md)] 

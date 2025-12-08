@@ -70,3 +70,8 @@ BO se utiliza para encontrar la **estructura molecular óptima** (parámetros) q
 Calibrar los parámetros de entrada de simulaciones físicas o modelos climáticos para que su salida coincida con los datos observados, lo que a menudo implica una función de coste muy costosa.
 
 En conclusión, la combinación de la flexibilidad predictiva y la rigurosa cuantificación de la incertidumbre de los **Procesos Gaussianos** proporciona la columna vertebral matemática para la **Optimización Bayesiana**, haciendo que la búsqueda de hiperparámetros y la optimización de sistemas complejos sean mucho más eficientes y sistemáticas.
+
+
+---
+
+Continua: [[12-1-1]()] 

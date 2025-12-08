@@ -58,3 +58,8 @@ A pesar de su potencial teórico, las QNNs enfrentan obstáculos significativos:
 * **Codificación de Datos:** Codificar grandes conjuntos de datos clásicos en el número limitado de qubits disponibles es un cuello de botella importante.
 
 Las Redes Neuronales Cuánticas representan un esfuerzo ambicioso para infundir la robustez del aprendizaje profundo con la capacidad de procesamiento exponencial de la cuántica, con el potencial de transformar la forma en que abordamos problemas de análisis de datos a gran escala en el futuro.
+
+
+---
+
+Continua: [[18-1-1]()] 

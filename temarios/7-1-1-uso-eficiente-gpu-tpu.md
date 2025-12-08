@@ -64,4 +64,4 @@ Al dominar tanto las arquitecturas subyacentes (CUDA/TPU) como las técnicas de 
 
 ---
 
-Continua: [[7-1-1-b1]()] 
+Continua: [[7-1-1-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-1-1-b1-paralelismo-en-el-entrenamiento-modelos-grandes.md)] 

@@ -63,3 +63,8 @@ Las SNNs están destinadas a sobresalir donde la eficiencia, la temporalidad y l
 * **Robótica y Edge AI:** Sistemas autónomos de bajo consumo que requieren tomar decisiones rápidas en tiempo real.
 
 Las SNNs no buscan solo replicar la precisión de las ANNs, sino su **eficiencia operativa** y su capacidad para procesar información a través del tiempo, abriendo un camino hacia una IA que es inherentemente más sostenible y rápida.
+
+
+---
+
+Continua: [[16-1-2]()] 

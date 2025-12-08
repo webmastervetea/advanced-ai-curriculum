@@ -78,3 +78,8 @@ Durante el *backward pass*, el cálculo de gradientes requiere las **activacione
 El *Activation Checkpointing* resuelve esto al **almacenar solo las activaciones de unas pocas capas seleccionadas** (los *checkpoints*). Las activaciones de las capas intermedias se **recalculan** durante el *backward pass* solo cuando es necesario. Esto ahorra una gran cantidad de memoria a costa de un ligero aumento en el tiempo de cálculo.
 
 Al combinar el Paralelismo de Datos, las estrategias de Paralelismo de Modelos y las técnicas de eficiencia de memoria como ZeRO y el *Checkpointing*, los investigadores e ingenieros pueden superar las limitaciones físicas del hardware y entrenar los sistemas de IA más avanzados del mundo.
+
+
+---
+
+Continua: [[7-2-1]()] 

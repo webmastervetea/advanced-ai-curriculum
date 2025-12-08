@@ -75,4 +75,4 @@ Las GNNs, por lo tanto, proporcionan un marco unificado para dar sentido a la es
 
 ---
 
-Continua: [[10-1-1]()] 
+Continua: [[10-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/10-1-1-aprender-politicas-de-sistemas.md)] 

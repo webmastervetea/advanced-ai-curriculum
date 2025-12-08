@@ -78,4 +78,4 @@ La Planificación Basada en Modelos es el camino hacia una IA con **capacidad de
 
 ---
 
-Continua: [[18-2-1]()] 
+Continua: [[18-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/18-2-1-entrenamiento-de-modelos.md)] 

@@ -101,4 +101,4 @@ El Modelo de Transformador ha redefinido el estado del arte en casi todas las ta
 
 ---
 
-Continua: [[2-3]()] 
+Continua: [[2-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-3-diseno-optimizacion-hiperparametros.md)] 

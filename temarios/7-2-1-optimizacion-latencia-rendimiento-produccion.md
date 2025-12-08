@@ -78,3 +78,8 @@ La optimización de la latencia en producción es, por lo tanto, una combinació
 1.  **Optimización del Modelo:** Uso de cuantización y destilación.
 2.  **Optimización del Servidor:** Uso de *Dynamic Batching* y compilación (TorchScript).
 3.  **Optimización de la Infraestructura:** Uso de *hardware* acelerador y escalabilidad horizontal (Kubernetes).
+
+
+---
+
+Continua: [[7-2-2]()] 

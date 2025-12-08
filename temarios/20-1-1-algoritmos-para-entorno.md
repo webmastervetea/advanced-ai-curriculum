@@ -65,3 +65,8 @@ TD3 introduce tres modificaciones clave para mejorar la estabilidad y el rendimi
 * **Control de Sistemas:** Regulación de variables continuas en plantas industriales o simulaciones físicas.
 
 En resumen, TD3 representa una mejora sólida sobre DDPG, ofreciendo una solución más estable y robusta al desafío de entrenar políticas de acción continua en el Aprendizaje por Refuerzo Profundo.
+
+
+---
+
+Continua: [[20-1-2]()] 

@@ -102,4 +102,4 @@ Los Modelos de Difusión combinan la **estabilidad** del entrenamiento de los VA
 
 ---
 
-Continua: [[4-1]()] 
+Continua: [[4-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/4-1-aprendizaje-por-refuerzo-profundo.md)] 

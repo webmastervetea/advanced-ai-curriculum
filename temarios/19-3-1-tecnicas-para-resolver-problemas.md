@@ -75,4 +75,4 @@ El enfoque más adecuado para la optimización restringida siempre depende de la
 
 ---
 
-Continua: [[20-1]()] 
+Continua: [[20-1-1]()] 

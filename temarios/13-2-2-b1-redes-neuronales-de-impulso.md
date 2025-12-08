@@ -66,3 +66,8 @@ Las SNNs están particularmente bien posicionadas para cargas de trabajo de baja
 * **Modelado Cerebral:** Permiten a los neurocientíficos crear modelos más precisos de circuitos neuronales reales para comprender el funcionamiento del cerebro.
 
 Las SNNs representan la próxima frontera en la IA, prometiendo sistemas que son no solo inteligentes, sino también inherentemente eficientes y adaptables, acercando la capacidad de cómputo al rendimiento y la economía del cerebro humano.
+
+
+---
+
+Continua: [[14-1-1]()] 

@@ -86,4 +86,4 @@ Estas técnicas proporcionan las lentes matemáticas necesarias para convertir g
 
 ---
 
-Continua: [[11-3-1]()] 
+Continua: [[11-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/11-3-1-uso-como-metodos-regresion-no-parametricos.md)] 

@@ -71,4 +71,4 @@ La principal ventaja de esta notación es ver cómo las GRU utilizan el mismo co
 
 ---
 
-Continua: [[2-1-b2]()] 
+Continua: [[2-1-b2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-1-b2-aplicaciones-practicas-rnn-lstm.md)] 

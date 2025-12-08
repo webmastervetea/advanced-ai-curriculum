@@ -60,3 +60,8 @@ Gran parte de la eficiencia moderna se logra mediante bibliotecas de software es
 
 Al dominar tanto las arquitecturas subyacentes (CUDA/TPU) como las técnicas de *software* (paralelismo y precisión mixta), los ingenieros pueden desbloquear el verdadero potencial de las supercomputadoras de IA.
 
+
+
+---
+
+Continua: [[7-1-1-b1]()] 

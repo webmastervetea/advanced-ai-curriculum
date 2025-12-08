@@ -69,4 +69,4 @@ En conclusión, DDPG, TD3 y sus derivados son herramientas vitales que están im
 
 ---
 
-Continua: [[20-2-1]()] 
+Continua: [[20-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-2-1-uso-de-metodos-probabilisticos.md)] 

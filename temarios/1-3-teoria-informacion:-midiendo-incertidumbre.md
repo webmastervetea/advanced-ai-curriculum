@@ -83,4 +83,4 @@ En resumen, la Teoría de la Información trascendió la ingeniería para conver
 
 ---
 
-Continua: [[1-3-b1]()] 
+Continua: [[1-3-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-3-b1-profundizando-teoria-informacion.md)] 

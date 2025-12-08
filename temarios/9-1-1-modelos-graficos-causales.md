@@ -71,3 +71,8 @@ La formalización de la causalidad a través de DAGs y el Cálculo Do, principal
 * **IA Explicable:** Permite a los modelos no solo predecir, sino también razonar sobre los mecanismos de decisión.
 * **Ciencias Sociales y Economía:** Permite a los investigadores identificar qué variables deben ser controladas en un análisis de regresión para eliminar el sesgo de las variables confusoras.
 * **ML Causal:** Las bibliotecas modernas (como DoWhy o CausalPy) implementan estos principios, permitiendo a los ingenieros de datos y científicos de ML realizar análisis causales rigurosos a partir de datos observacionales complejos.
+
+
+---
+
+Continua: [[9-1-2]()] 

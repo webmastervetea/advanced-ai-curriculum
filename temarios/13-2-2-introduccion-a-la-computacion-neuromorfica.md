@@ -62,4 +62,4 @@ La computación neuromórfica está destinada a ser la solución de *hardware* p
 
 ---
 
-Continua: [[13-2-2-b1]()] 
+Continua: [[13-2-2-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/13-2-2-b1-redes-neuronales-de-impulso.md)] 

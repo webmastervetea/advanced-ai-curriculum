@@ -88,4 +88,4 @@ La regulación de la IA es una herramienta evolutiva y dinámica. Mientras que l
 
 ---
 
-Continua: [[7-1-1]()] 
+Continua: [[7-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-1-1-uso-eficiente-gpu-tpu.md)] 

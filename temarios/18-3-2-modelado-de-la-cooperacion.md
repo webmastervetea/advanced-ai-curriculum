@@ -81,4 +81,4 @@ El modelado exitoso de la cooperación y la competencia en sistemas multi-agente
 
 ---
 
-Continua: [[19-1-1]()] 
+Continua: [[19-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-1-1-uso-de-procesos-gaussianos.md)] 

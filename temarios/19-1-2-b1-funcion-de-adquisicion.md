@@ -59,3 +59,7 @@ Este término $\epsilon$ asegura que el algoritmo siempre tenga un incentivo par
 
 La **Mejora Esperada (EI)** proporciona un criterio robusto para la toma de decisiones secuencial en la Optimización Bayesiana. Al calcular la ganancia esperada de la evaluación de un punto, el EI permite que la BO supere la ineficiencia de la búsqueda ciega, convergiendo rápidamente al óptimo global de la función de error de validación con el menor número posible de costosos entrenamientos de modelos.
 
+
+---
+
+Continua: [[19-1-2-b2]()] 

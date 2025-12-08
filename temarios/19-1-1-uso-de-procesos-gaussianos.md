@@ -68,3 +68,8 @@ Donde $\delta_{ij}$ es la delta de Kronecker (igual a 1 si $i=j$, y 0 si $i \ne 
 ## 4. Conclusión
 
 Los Procesos Gaussianos son una herramienta esencial para la optimización y el modelado de *Machine Learning* en entornos del mundo real. Al proporcionar no solo una predicción puntual, sino también una cuantificación de la incertidumbre, el GP permite a los algoritmos de Optimización Bayesiana tomar decisiones racionalmente informadas sobre el equilibrio entre exploración y explotación, lo que resulta en una convergencia eficiente y una reducción drástica del costo de las evaluaciones.
+
+
+---
+
+Continua: [[19-1-2]()] 

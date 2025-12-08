@@ -76,3 +76,8 @@ Donde $m$ (impulso) es un valor cercano a 1 (ej. 0.999). Esta actualización sua
 | **Mejora Clave** | Importancia del aumento de datos y de la cabeza de proyección. | Escalabilidad a diccionarios grandes sin sacrificar hardware. |
 
 Los métodos contrastivos han establecido el SSL como el nuevo estándar de facto para el pre-entrenamiento en visión por computadora (y NLP, con modelos como SimCSE), permitiendo que la mayoría de los datos no etiquetados se utilicen para generar representaciones de alta calidad.
+
+
+---
+
+Continua: [[8-1-2]()] 

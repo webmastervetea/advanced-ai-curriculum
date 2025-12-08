@@ -71,3 +71,8 @@ Para problemas donde la función objetivo y las restricciones son lineales, se u
 * **Programación Entera (IP):** Cuando las variables $\mathbf{x}$ deben ser números enteros (comprar un número entero de máquinas, asignar una tarea a un individuo), se utilizan algoritmos de **Ramificación y Acotamiento (*Branch and Bound*)** para resolver la complejidad adicional.
 
 El enfoque más adecuado para la optimización restringida siempre depende de la naturaleza del problema: **métodos analíticos** para problemas bien comportados, y **metaheurísticas** para problemas combinatorios o de alta complejidad.
+
+
+---
+
+Continua: [[20-1]()] 

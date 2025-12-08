@@ -71,3 +71,8 @@ La principal defensa contra estos ataques es el **Entrenamiento Adversario (*Adv
 * **Resultado:** Esto suaviza los límites de decisión del modelo en el vecindario del dato, haciendo que la red sea más robusta y menos sensible a las pequeñas perturbaciones.
 
 La lucha entre los ataques adversarios y las defensas es un campo activo y esencial que impulsa la investigación hacia modelos de IA más robustos y confiables.
+
+
+---
+
+Continua: [[15-1-2]()] 

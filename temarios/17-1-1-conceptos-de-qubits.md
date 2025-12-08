@@ -73,3 +73,8 @@ El entrelazamiento es la base de algoritmos poderosos como el **Algoritmo de Sho
 | **Entrelazamiento** | Conexión lógica entre bits | Permite **procesar** $2^n$ valores simultáneamente, coordinando el cómputo. |
 
 Juntos, estos tres conceptos permiten a la computación cuántica manipular la información de formas que el cómputo clásico simplemente no puede replicar, abriendo la puerta a nuevas soluciones en química, farmacéutica y optimización.
+
+
+---
+
+Continua: [[17-1-2]()] 

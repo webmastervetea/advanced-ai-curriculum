@@ -83,4 +83,4 @@ Asegurar la confiabilidad a largo plazo requiere tratar el modelo como un produc
 
 ---
 
-Continua: [[16-1-1]()] 
+Continua: [[16-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/16-1-1-modelos-redes-neuronales-biologicas.md)] 

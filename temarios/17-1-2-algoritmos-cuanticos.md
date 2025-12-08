@@ -57,3 +57,8 @@ El algoritmo de Grover funciona mediante la **Amplificación de Amplitud**, un p
 * **Aplicación:** Estos algoritmos se utilizan para problemas de optimización, finanzas y ML.
 
 Los algoritmos de Shor y Grover establecieron el potencial teórico de la computación cuántica, mientras que los algoritmos de simulación y los híbridos impulsan la aplicación práctica a corto y medio plazo.
+
+
+---
+
+Continua: [[17-2-1]()] 

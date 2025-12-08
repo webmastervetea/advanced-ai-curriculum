@@ -75,3 +75,8 @@ La verdadera potencia de la TPU reside en la arquitectura de **Pods TPU**.
 | **Escalabilidad** | Escalabilidad masiva y optimizada a través de la arquitectura de Pods TPU. | Requiere el uso del *framework* **XLA** (Accelerated Linear Algebra) para compilar y optimizar el código. |
 
 Las TPUs representan un cambio significativo en la computación de IA, demostrando el valor de crear *hardware* especializado para cargas de trabajo específicas, asegurando que los avances en *Deep Learning* sigan siendo computacionalmente viables en la era de los modelos gigantes.
+
+
+---
+
+Continua: [[13-2-2]()] 

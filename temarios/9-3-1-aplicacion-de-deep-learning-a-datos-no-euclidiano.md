@@ -79,3 +79,8 @@ La capacidad de modelar explícitamente las relaciones ha llevado a las GNNs a s
 * **Heterogeneidad:** Los grafos reales a menudo tienen diferentes tipos de nodos y aristas (Grafos Heterogéneos), lo que requiere arquitecturas más complejas que modelen cada tipo de relación por separado.
 
 La Programación Diferenciable, combinada con la estructura relacional de los grafos, posiciona a las GNNs como la tecnología más prometedora para dar sentido a los datos interconectados y relacionales del mundo.
+
+
+---
+
+Continua: [[9-4-1]()] 

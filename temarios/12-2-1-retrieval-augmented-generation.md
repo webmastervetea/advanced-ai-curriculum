@@ -65,4 +65,4 @@ RAG ha pasado de ser una técnica de investigación a ser la **arquitectura de p
 
 ---
 
-Continua: [[12-2-2]()] 
+Continua: [[12-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/12-2-2-busqueda-vectorial.md)] 

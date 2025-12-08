@@ -64,4 +64,4 @@ Ambos paradigmas son vitales para llevar la IA a entornos con datos escasos y pa
 
 ---
 
-Continua: [[9-1-1]()] 
+Continua: [[9-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-1-1-modelos-graficos-causales.md)] 

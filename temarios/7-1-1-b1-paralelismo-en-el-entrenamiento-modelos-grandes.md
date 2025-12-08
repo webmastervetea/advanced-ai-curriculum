@@ -60,3 +60,8 @@ En la práctica, el entrenamiento de los LLMs modernos combina ambas estrategias
 * *Ejemplo:* Un modelo se divide en 4 GPUs (Paralelismo de Modelo). Para acelerar el entrenamiento, esta configuración de 4 GPUs se replica 8 veces, sumando 32 GPUs en total (Paralelismo de Datos). Esto permite un *batch size* 8 veces más grande.
 
 Esta combinación es lo que permite a las organizaciones entrenar modelos con miles de millones de parámetros en grandes clústeres de aceleradores.
+
+
+---
+
+Continua: [[7-1-2]()] 

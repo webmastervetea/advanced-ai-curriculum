@@ -74,4 +74,4 @@ La **Edge AI** no es solo una cuestión de conveniencia, sino una necesidad de p
 
 ---
 
-Continua: [[13-2-1]()] 
+Continua: [[13-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/13-2-1-arquitecturas-unidades-procesamiento-tensorial.md)] 

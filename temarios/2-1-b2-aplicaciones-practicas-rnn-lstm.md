@@ -49,4 +49,4 @@ El BPTT es costoso computacionalmente, ya que requiere guardar todos los estados
 
 ---
 
-Continua: [[2-2]()] 
+Continua: [[2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-2-revolucion-transformador-atencion.md)] 

@@ -73,4 +73,4 @@ A lo largo de muchas iteraciones, la inercia del $0.9 \cdot v_{t-1}$ se conviert
 
 ---
 
-Continua: [[1-3]()] 
+Continua: [[1-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-3-teoria-informacion%3A-midiendo-incertidumbre.md)] 

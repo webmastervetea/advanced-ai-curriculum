@@ -66,4 +66,4 @@ La fusión de información multimodal es la clave para desbloquear la próxima g
 
 ---
 
-Continua: [[12-1-2-b1]()] 
+Continua: [[12-1-2-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/12-1-2-b1-atencion-cruzada.md)] 

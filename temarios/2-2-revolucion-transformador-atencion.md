@@ -97,3 +97,8 @@ El Transformador demostró ser tan efectivo que se adaptó al campo de la visió
 * **ViT:** Estos modelos dividen una imagen en pequeños parches ("tokens visuales"), aplican codificación posicional a estos parches y los procesan mediante el mecanismo de Auto-Atención del Transformador. Han superado a las CNN en muchas tareas de clasificación y segmentación de imágenes, demostrando que la atención es un mecanismo poderoso para capturar relaciones espaciales, no solo temporales o lingüísticas.
 
 El Modelo de Transformador ha redefinido el estado del arte en casi todas las tareas secuenciales y multimodales de la IA, gracias a su eficiente mecanismo de Atención que permite un procesamiento contextual y escalable.
+
+
+---
+
+Continua: [[2-3]()] 

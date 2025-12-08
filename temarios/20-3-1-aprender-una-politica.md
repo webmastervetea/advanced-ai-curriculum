@@ -78,4 +78,4 @@ El Aprendizaje por Imitación proporciona un puente fundamental entre la experie
 
 ---
 
-Continua: [[20-3-2]()] 
+Continua: [[20-3-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-2-inferir-la-funcion.md)] 

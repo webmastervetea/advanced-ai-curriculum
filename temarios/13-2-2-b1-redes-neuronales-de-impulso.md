@@ -70,4 +70,4 @@ Las SNNs representan la próxima frontera en la IA, prometiendo sistemas que son
 
 ---
 
-Continua: [[14-1-1]()] 
+Continua: [[14-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/14-1-1-entrenamiento-modelos-multiples-dispositivos.md)] 

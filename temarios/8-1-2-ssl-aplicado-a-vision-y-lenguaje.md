@@ -72,4 +72,4 @@ En ambos campos, el modelo pre-entrenado mediante SSL captura una base de conoci
 
 ---
 
-Continua: [[8-2-1]()] 
+Continua: [[8-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/8-2-1-adaptacion-de-dominio.md)] 

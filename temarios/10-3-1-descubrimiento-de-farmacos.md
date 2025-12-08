@@ -76,4 +76,4 @@ El *Deep Learning* ha transformado el Descubrimiento de Fármacos de un proceso 
 
 ---
 
-Continua: [[10-3-2]()] 
+Continua: [[10-3-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/10-3-2-modelado-del-clima.md)] 

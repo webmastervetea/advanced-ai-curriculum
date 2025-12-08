@@ -73,4 +73,4 @@ La mitigación de sesgos es un proceso continuo que requiere un esfuerzo multidi
 
 ---
 
-Continua: [[6-2]()] 
+Continua: [[6-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/6-2-interpretabilidad-modelos.md)] 

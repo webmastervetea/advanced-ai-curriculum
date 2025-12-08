@@ -45,3 +45,8 @@ El objetivo es calcular cómo contribuye cada peso de la red al error total de l
 * **La Solución (Explosión):** La explosión del gradiente se maneja comúnmente mediante el **Recorte de Gradiente (Gradient Clipping)**, donde si el vector de gradientes excede un cierto umbral, se reescala (se "recorta") a una norma máxima permitida.
 
 El BPTT es costoso computacionalmente, ya que requiere guardar todos los estados intermedios en la memoria durante el paso hacia adelante para poder utilizarlos en el paso hacia atrás. Sin embargo, es el mecanismo esencial que permite que los modelos recurrentes aprendan dependencias temporales.
+
+
+---
+
+Continua: [[2-2]()] 

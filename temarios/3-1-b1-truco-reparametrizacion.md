@@ -72,4 +72,4 @@ En esencia, el VAE sacrifica una pequeña cantidad de calidad de salida a cambio
 
 ---
 
-Continua: [[3-2]()] 
+Continua: [[3-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/3-2-redes-generativas-adversarias.md)] 

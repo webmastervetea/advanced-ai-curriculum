@@ -68,4 +68,4 @@ El Deep Learning está democratizando el acceso a pronósticos de alta calidad y
 
 ---
 
-Continua: [[11-1-1]()] 
+Continua: [[11-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/11-1-1-uso-de-redes-neuronales.md)] 

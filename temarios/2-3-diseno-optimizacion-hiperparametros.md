@@ -96,4 +96,4 @@ Dominar la optimización de hiperparámetros es la diferencia entre un modelo fu
 
 ---
 
-Continua: [[2-3-b1]()] 
+Continua: [[2-3-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-3-b1-ejemplo-implementacion-busqueda-aleatoria.md)] 

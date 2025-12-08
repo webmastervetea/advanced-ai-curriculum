@@ -79,4 +79,4 @@ Las técnicas modernas se están moviendo hacia la **Adaptación de Dominio Gene
 
 ---
 
-Continua: [[8-2-2]()] 
+Continua: [[8-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/8-2-2-few-shot-y-zero-shot.md)] 

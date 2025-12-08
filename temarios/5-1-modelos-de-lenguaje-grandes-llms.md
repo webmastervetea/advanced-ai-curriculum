@@ -76,4 +76,4 @@ La evolución de la Ingeniería de Prompts, desde simples instrucciones hasta es
 
 ---
 
-Continua: [[5-1-b1]()] 
+Continua: [[5-1-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/5-1-b1-absolutamente-desarrollemos-comparacion.md)] 

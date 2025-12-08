@@ -70,3 +70,8 @@ Para facilitar la ejecución de estos modelos optimizados en el *Edge*, existen 
 * **ONNX Runtime:** Proporciona un entorno de ejecución eficiente para el formato de intercambio de redes neuronales ONNX, siendo interoperable con diferentes plataformas.
 
 La **Edge AI** no es solo una cuestión de conveniencia, sino una necesidad de privacidad, seguridad y velocidad. Las técnicas de optimización permiten que la IA de última generación se implemente en el mundo real, democratizando el acceso a las capacidades de cómputo inteligente sin depender de la infraestructura de la nube.
+
+
+---
+
+Continua: [[13-2-1]()] 

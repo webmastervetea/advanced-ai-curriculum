@@ -69,3 +69,8 @@ La función $\min(\dots)$ asegura que la actualización de la política sea limi
 2.  Si la nueva política es **mucho peor** que la anterior ($r_t(\theta)$ es muy pequeña y $A_t$ es negativa), la actualización se **limita** de manera similar, evitando que el modelo se castigue demasiado.
 
 Al mantener el cambio de política **dentro de un vecindario seguro** (el rango $[1-\epsilon, 1+\epsilon]$), PPO logra la estabilidad de los métodos de optimización por lotes mientras mantiene la potencia de los métodos de gradiente de política. Esto lo convierte en uno de los algoritmos más utilizados para el entrenamiento de IA en entornos complejos.
+
+
+---
+
+Continua: [[5-1]()] 

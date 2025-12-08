@@ -69,3 +69,8 @@ Para mitigar los riesgos de fuga de información a través de los gradientes, el
 ## 5. Conclusión
 
 El Aprendizaje Federado no es solo una optimización técnica; es una solución ética y práctica para la IA. Al descentralizar el entrenamiento, el FL permite que la IA se beneficie de la riqueza de los datos del mundo real manteniendo al mismo tiempo las protecciones de privacidad y las restricciones de ancho de banda, lo que es esencial para el futuro de las aplicaciones críticas en el *Edge* y la sanidad.
+
+
+---
+
+Continua: [[14-1-2]()] 

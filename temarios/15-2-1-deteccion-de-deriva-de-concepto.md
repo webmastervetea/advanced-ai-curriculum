@@ -65,3 +65,8 @@ Se utilizan múltiples modelos que se adaptan a la deriva.
 * **Weighted Ensemble:** Se entrena un *ensemble* de modelos. Cuando se detecta una deriva, los modelos que se ajustan mejor a la nueva distribución reciben un peso mayor en la predicción final, y los modelos antiguos se descartan o se reentrenan.
 
 La detección y mitigación de la deriva son componentes esenciales del **ciclo de vida del ML en producción**, asegurando que los modelos no solo sean precisos al principio, sino que sigan siendo una herramienta de toma de decisiones confiable a largo plazo.
+
+
+---
+
+Continua: [[15-2-2]()] 

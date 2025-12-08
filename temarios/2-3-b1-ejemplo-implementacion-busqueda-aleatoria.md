@@ -61,3 +61,9 @@ La ventaja crucial de la Búsqueda Aleatoria se muestra cuando solo un subconjun
 
 
 La Búsqueda Aleatoria maximiza la posibilidad de probar valores únicos y potencialmente óptimos a lo largo de cada dimensión de hiperparámetro, siendo más eficiente para descubrir combinaciones ganadoras.
+
+
+
+---
+
+Continua: [[3-1]()] 

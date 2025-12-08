@@ -78,3 +78,8 @@ El MPC es un método avanzado de control de procesos utilizado en robótica, veh
 * **Solución:** La **Optimización Topológica** es un proceso iterativo que utiliza un algoritmo de optimización para modificar el diseño espacial de la estructura, eliminando material innecesario y maximizando el rendimiento (ej. minimizar la vibración, aumentar la rigidez).
 
 En resumen, la optimización no es solo una herramienta, sino el **lenguaje matemático** que permite a los algoritmos complejos aprender de los datos, tomar decisiones inteligentes y crear diseños eficientes, siendo esencial para el avance continuo de la tecnología.
+
+
+---
+
+Continua: [[9-3-1]()] 

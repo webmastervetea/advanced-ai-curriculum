@@ -83,4 +83,4 @@ Sin embargo, la investigación está mejorando la eficiencia a un ritmo rápido 
 
 ---
 
-Continua: [[14-2-2]()] 
+Continua: [[14-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/14-2-2-privacidad-diferencial.md)] 

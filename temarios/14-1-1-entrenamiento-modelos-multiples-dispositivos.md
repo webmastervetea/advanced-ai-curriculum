@@ -73,4 +73,4 @@ El Aprendizaje Federado no es solo una optimización técnica; es una solución 
 
 ---
 
-Continua: [[14-1-2]()] 
+Continua: [[14-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/14-1-2-estrategias-de-agregacion-de-modelos.md)] 

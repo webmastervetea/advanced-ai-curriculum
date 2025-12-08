@@ -60,3 +60,8 @@ En la práctica moderna de los **LLMs**, la distinción entre FSL y ZSL a menudo
 * **FSL (Few-Shot) en LLMs:** Se utiliza para **acondicionar** la respuesta del modelo, especialmente para tareas específicas de formato o razonamiento (ej. forzar una respuesta en formato JSON o seguir un estilo de escritura muy particular).
 
 Ambos paradigmas son vitales para llevar la IA a entornos con datos escasos y para crear sistemas que puedan adaptarse rápidamente a nuevas realidades del mundo sin requerir un ciclo completo de recolección y etiquetado de datos.
+
+
+---
+
+Continua: [[9-1-1]()] 

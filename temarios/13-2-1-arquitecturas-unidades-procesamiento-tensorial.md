@@ -79,4 +79,4 @@ Las TPUs representan un cambio significativo en la computación de IA, demostran
 
 ---
 
-Continua: [[13-2-2]()] 
+Continua: [[13-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/13-2-2-introduccion-a-la-computacion-neuromorfica.md)] 

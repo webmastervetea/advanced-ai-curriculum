@@ -70,5 +70,9 @@ La adopción de modelos basados en Transformadores y *embeddings* contextuales t
 
 En resumen, el *embedding* contextual representa la evolución de la representación del lenguaje, pasando de una mirada estática y aislada de las palabras a una representación dinámica, sensible al contexto y profundamente interconectada.
 
+
+
 ---
+
+Continua: [[5-2-b1]()] 
 

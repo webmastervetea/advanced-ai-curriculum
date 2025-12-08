@@ -75,4 +75,4 @@ La formalización de la causalidad a través de DAGs y el Cálculo Do, principal
 
 ---
 
-Continua: [[9-1-2]()] 
+Continua: [[9-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-1-2-diferenciacion-entre-correlacion-y-causalidad.md)] 

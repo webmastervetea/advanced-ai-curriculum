@@ -80,3 +80,8 @@ La tendencia actual es la transición de sistemas modulares (NLU $\to$ DM $\to$ 
 * **Desafío:** Mantener la **fiabilidad** y la **capacidad de razonamiento lógico** (ej. confirmar que una fecha es posterior a otra), algo que los sistemas basados en reglas hacían bien. Esto requiere el uso de *prompting* avanzado o **Agentes RAG (Retrieval-Augmented Generation)** que consultan bases de datos estructuradas antes de generar la respuesta.
 
 El diseño de diálogos sigue siendo un arte y una ciencia que busca equilibrar la eficiencia algorítmica con la fluidez y la imprevisibilidad de la interacción humana.
+
+
+---
+
+Continua: [[12-1-2]()] 

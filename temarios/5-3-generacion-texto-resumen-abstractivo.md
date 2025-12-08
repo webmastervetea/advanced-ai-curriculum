@@ -79,3 +79,8 @@ Evaluar la calidad de un resumen (especialmente el abstractivo) es complejo, ya 
 * **ROUGE-L:** Mide la longitud de la subsecuencia común más larga (LCS), lo que favorece el flujo y la estructura.
 
 Aunque ROUGE es imperfecto (prefiere la superposición literal), sigue siendo la herramienta estándar para medir la *fidelidad* y la *calidad* de la generación en tareas de resumen.
+
+
+---
+
+Continua: [[6-1]()] 

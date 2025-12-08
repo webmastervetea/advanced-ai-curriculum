@@ -71,3 +71,8 @@ Las GNNs resuelven dos problemas clave en la recomendación:
 2.  **Problema del *Cold Start*:** Cuando un nuevo ítem (sin interacciones previas) o un nuevo usuario (sin historial) aparece, las GNNs pueden utilizar las **características de los nodos** (ej. la descripción del nuevo ítem o la demografía del nuevo usuario) y propagar la información de sus pocos vecinos para generar un *embedding* útil. Esto resuelve la parálisis inicial que sufren los sistemas basados únicamente en el historial.
 
 Las GNNs, por lo tanto, proporcionan un marco unificado para dar sentido a la estructura intrínseca de los datos, demostrando que la **relación** es tan importante como la **entidad** en sí misma, lo que conduce a sistemas más inteligentes y predictivos en una amplia gama de campos científicos y comerciales.
+
+
+---
+
+Continua: [[10-1-1]()] 

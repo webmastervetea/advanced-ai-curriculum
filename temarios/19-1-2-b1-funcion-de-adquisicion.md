@@ -62,4 +62,4 @@ La **Mejora Esperada (EI)** proporciona un criterio robusto para la toma de deci
 
 ---
 
-Continua: [[19-1-2-b2]()] 
+Continua: [[19-1-2-b2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-1-2-b2-funcion-adquisicion-mejora-esperada.md)] 

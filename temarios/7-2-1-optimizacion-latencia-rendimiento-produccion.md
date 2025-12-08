@@ -82,4 +82,4 @@ La optimización de la latencia en producción es, por lo tanto, una combinació
 
 ---
 
-Continua: [[7-2-2]()] 
+Continua: [[7-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-2-2-compresion-cuantizacion-modelos.md)] 

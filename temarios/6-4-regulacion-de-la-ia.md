@@ -84,3 +84,8 @@ La Organización para la Cooperación y el Desarrollo Económicos (OCDE) ha esta
 La **Ley de IA de la UE** se considera un **"Efecto Bruselas"** potencial, similar a lo que ocurrió con el **GDPR**. Dado el tamaño del mercado único europeo, es probable que las empresas tecnológicas globales decidan cumplir con los estándares de la UE en todo el mundo para simplificar el cumplimiento.
 
 La regulación de la IA es una herramienta evolutiva y dinámica. Mientras que la UE se enfoca en el **cumplimiento legal estricto**, otros países como EE. UU. se centran en la **innovación abierta** y la **investigación en seguridad** en colaboración con la industria. El futuro del desarrollo de la IA estará, sin duda, determinado por el balance entre estos enfoques regulatorios.
+
+
+---
+
+Continua: [[7-1-1]()] 

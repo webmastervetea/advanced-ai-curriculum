@@ -72,4 +72,4 @@ Los Procesos Gaussianos son una herramienta esencial para la optimización y el 
 
 ---
 
-Continua: [[19-1-2]()] 
+Continua: [[19-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-1-2-aplicacion-de-bo.md)] 

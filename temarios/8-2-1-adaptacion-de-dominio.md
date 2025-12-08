@@ -75,3 +75,8 @@ La Adaptación de Dominio es indispensable en escenarios donde la recolección d
 ## 5. El Futuro de la Adaptación
 
 Las técnicas modernas se están moviendo hacia la **Adaptación de Dominio Generalizado (*Generalized Domain Adaptation*, GDA)**, donde no solo se asume que las distribuciones son diferentes, sino que el modelo debe funcionar bien tanto en el Dominio Fuente como en el Dominio Objetivo después de la adaptación. El objetivo final es la creación de modelos que sean robustos ante cualquier cambio de distribución no anticipado.
+
+
+---
+
+Continua: [[8-2-2]()] 

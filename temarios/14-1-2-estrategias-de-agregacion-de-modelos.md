@@ -76,3 +76,8 @@ Un cliente malicioso podría enviar gradientes diseñados específicamente para 
 * **Mediana Ponderada (*Weighted Median*):** En lugar de promediar los pesos, se utiliza la mediana ponderada. La mediana es intrínsecamente más robusta a los valores atípicos que el promedio.
 
 En resumen, **FedAvg** proporcionó el *framework* inicial para la descentralización del entrenamiento. Las estrategias de agregación actuales se centran en mejorar la robustez de FedAvg ante la heterogeneidad y garantizar la seguridad del modelo resultante.
+
+
+---
+
+Continua: [[14-2-1]()] 

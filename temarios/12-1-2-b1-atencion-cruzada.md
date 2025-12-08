@@ -60,4 +60,4 @@ En esencia, la Atención Cruzada es el mecanismo que otorga a los sistemas de di
 
 ---
 
-Continua: [[12-2-1]()] 
+Continua: [[12-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/12-2-1-retrieval-augmented-generation.md)] 

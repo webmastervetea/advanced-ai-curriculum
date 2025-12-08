@@ -67,3 +67,8 @@ ILP es crucial para tareas donde se requiere una comprensión profunda y simból
 * **IA Híbrida:** ILP es un componente clave en la **IA Híbrida**. Los modelos de *Deep Learning* pueden encargarse de la percepción (ej. identificar entidades en una imagen), y las reglas aprendidas por ILP se utilizan para el **razonamiento simbólico** sobre esas entidades.
 
 La Programación Lógica Inductiva proporciona una vía para que la IA no solo reconozca patrones, sino que también **razone, explique y descubra nuevas leyes y relaciones** de forma estructurada y declarativa.
+
+
+---
+
+Continua: [[17-1-1]()] 

@@ -80,4 +80,4 @@ La combinación de estas técnicas permite al analista responder no solo a "¿Qu
 
 ---
 
-Continua: [[6-3]()] 
+Continua: [[6-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/6-3-robustez-y-ataques-adversarios.md)] 

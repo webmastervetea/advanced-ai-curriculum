@@ -82,3 +82,8 @@ El descubrimiento de estructuras latentes es crucial en:
 * **Genómica:** Identificación de patrones genéticos subyacentes o de poblaciones dentro de muestras biológicas.
 
 Estas técnicas proporcionan las lentes matemáticas necesarias para convertir grandes flujos de datos complejos en conocimiento estructurado e interpretable.
+
+
+---
+
+Continua: [[11-3-1]()] 

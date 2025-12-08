@@ -81,3 +81,8 @@ Existe un **compromiso (*trade-off*) inherente** entre **Precisión y Robustez**
 * Por el contrario, los modelos altamente precisos en datos limpios suelen ser más vulnerables a pequeños ataques adversarios.
 
 Este compromiso subraya que el desarrollo de la IA no se trata solo de maximizar la precisión en los conjuntos de datos de prueba, sino de garantizar que los modelos sean seguros y fiables en entornos operativos y potencialmente hostiles.
+
+
+---
+
+Continua: [[6-4]()] 

@@ -47,4 +47,4 @@ La atención causal impone una restricción artificial al mecanismo de Auto-Aten
 
 ---
 
-Continua: [[5-3]()] 
+Continua: [[5-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/5-3-generacion-texto-resumen-abstractivo.md)] 

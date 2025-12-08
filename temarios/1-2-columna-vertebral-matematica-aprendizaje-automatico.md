@@ -79,5 +79,7 @@ Donde $\hat{m}_t$ y $\hat{v}_t$ son las versiones corregidas de los momentos. **
 El Cálculo Multivariable proporciona el **lenguaje** (el gradiente y la retropropagación) para saber cómo cambiar los parámetros del modelo. La Optimización, a través de algoritmos como **ADAM** y **RMSprop**, proporciona la **estrategia** para aplicar esos cambios de la manera más rápida y eficiente posible para encontrar el **mínimo global** de la función de pérdida.
 
 Sin la sinergia entre el cálculo multivariable para el gradiente y estos optimizadores avanzados, el *Deep Learning* simplemente no sería viable a la escala y velocidad actuales.
+
 ---
+
 Continua: [[1-2-b1]()] 

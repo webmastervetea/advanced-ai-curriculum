@@ -62,4 +62,4 @@ Las Redes Neuronales Cuánticas representan un esfuerzo ambicioso para infundir 
 
 ---
 
-Continua: [[18-1-1]()] 
+Continua: [[18-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/18-1-1-algoritmos-de-busqueda-avanzados.md)] 

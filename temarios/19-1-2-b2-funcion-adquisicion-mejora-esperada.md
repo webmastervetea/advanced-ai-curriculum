@@ -62,4 +62,4 @@ La **Mejora Esperada (EI)** proporciona un criterio robusto para la toma de deci
 
 ---
 
-Continua: [[19-2-1]()] 
+Continua: [[19-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-2-1-algoritmos-geneticos.md)] 

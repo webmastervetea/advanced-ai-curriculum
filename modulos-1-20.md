@@ -96,8 +96,8 @@
 
 #### 14. Aprendizaje Federado y Privacidad
 * 14.1 **Aprendizaje Federado (*Federated Learning*):**
-    [[14.1.1]()] * Entrenamiento de modelos en múltiples dispositivos descentralizados sin compartir datos sensibles.
-    [[14.1.2]()] * Estrategias de agregación de modelos (**Federated Averaging - FedAvg**).
+    * [[14.1.1]()] Entrenamiento de modelos en múltiples dispositivos descentralizados sin compartir datos sensibles.
+    * [[14.1.2]()] Estrategias de agregación de modelos (**Federated Averaging - FedAvg**).
 * 14.2 **IA Preservadora de la Privacidad:**
     * [[14.2.1]()] **Cifrado Homomórfico** y su potencial para la inferencia de IA sobre datos cifrados.
     * [[14.2.2]()] **Privacidad Diferencial** (*Differential Privacy*) para agregar ruido y proteger la identidad de los datos.
@@ -156,6 +156,7 @@
 * 20.3 **Aprendizaje por Imitación (*Imitation Learning*) y Aprendizaje Inverso (*Inverse Reinforcement Learning - IRL*):**
     * [[20.3.1]()] Aprender una política directamente a partir de demostraciones de expertos.
     * [[20.3.2]()] Inferir la función de recompensa subyacente de un experto.
+
 
 
 

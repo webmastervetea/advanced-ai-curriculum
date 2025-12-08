@@ -77,3 +77,8 @@ En sistemas cooperativos, es difícil determinar la contribución individual de 
 En entornos con comunicación limitada o ruidosa, el agente debe aprender a inferir el estado y la intención de los demás agentes basándose en la **observación parcial** de su comportamiento (la **Teoría de la Mente**).
 
 El modelado exitoso de la cooperación y la competencia en sistemas multi-agente es esencial para aplicaciones como la gestión de flotas de vehículos autónomos, la robótica de rescate y la simulación económica, donde la interacción es la clave para la eficiencia del sistema.
+
+
+---
+
+Continua: [[19-1-1]()] 

@@ -72,3 +72,8 @@ El Meta-Aprendizaje es fundamental en escenarios donde la recopilación de datos
 * **Espacio de Tareas:** El rendimiento de MAML depende de que las nuevas tareas sigan el mismo patrón estadístico que las tareas utilizadas durante el Meta-Entrenamiento. Si una nueva tarea está muy lejos de la distribución de tareas de entrenamiento, la adaptación fallará.
 
 El Meta-Aprendizaje representa un paso clave hacia la **Inteligencia Artificial General (AGI)**, permitiendo que las máquinas adquieran nuevas habilidades con la misma eficiencia de transferencia de conocimiento que caracteriza a la inteligencia humana.
+
+
+---
+
+Continua: [[18-3-1]()] 

@@ -64,3 +64,8 @@ $$\mathcal{L}_{total} = \mathcal{L}_{datos} + \lambda \cdot \mathcal{L}_{física
 Los avances en DL están haciendo posible modelar sistemas climáticos complejos con menos recursos computacionales, permitiendo a los científicos explorar escenarios de cambio climático con mayor rapidez y realizar simulaciones de modelos climáticos con conjuntos de parámetros más amplios.
 
 El Deep Learning está democratizando el acceso a pronósticos de alta calidad y transformando la meteorología de una ciencia intensiva en simulación física a una ciencia híbrida de **simulación rápida y optimización de datos**.
+
+
+---
+
+Continua: [[11-1-1]()] 

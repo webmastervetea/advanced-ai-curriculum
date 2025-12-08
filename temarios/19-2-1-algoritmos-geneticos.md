@@ -65,4 +65,4 @@ En resumen, los Algoritmos Genéticos y la Programación Genética ofrecen un en
 
 ---
 
-Continua: [[19-2-2]()] 
+Continua: [[19-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-2-2-optimizacion-por-colonia-de-hormigas.md)] 

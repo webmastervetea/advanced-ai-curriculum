@@ -72,3 +72,8 @@ El enfoque más revolucionario es el **diseño *de novo***, donde la IA no solo 
 * **RL Generativo:** Se utiliza el **Aprendizaje por Refuerzo** para guiar la generación molecular. El agente recibe una recompensa si la molécula generada cumple con los criterios de propiedad ADMET/actividad deseados.
 
 El *Deep Learning* ha transformado el Descubrimiento de Fármacos de un proceso basado en la prueba y el error a un proceso de **ingeniería molecular optimizada**, permitiendo la identificación más rápida y el diseño preciso de candidatos farmacológicos.
+
+
+---
+
+Continua: [[10-3-2]()] 

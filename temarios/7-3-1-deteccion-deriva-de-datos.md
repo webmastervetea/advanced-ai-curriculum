@@ -72,3 +72,8 @@ Una vez detectada la deriva (ya sea de datos o de modelo), la intervención es n
 | **Mantenimiento del Modelo** | Analizar la causa raíz de la deriva (ej. si una característica está corrupta debido a un sensor defectuoso), y corregir el problema de ingeniería de datos antes de reentrenar. | Problemas de *Data Drift* relacionados con la infraestructura o el *pipeline* de datos. |
 
 La gestión de la deriva requiere un sólido *pipeline* de **MLOps** que automatice la supervisión de la calidad de los datos de entrada y las métricas de rendimiento del modelo.
+
+
+---
+
+Continua: [[8-1-1]()] 

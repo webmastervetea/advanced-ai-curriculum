@@ -73,3 +73,8 @@ El siguiente paso en UQ es la **Calibración**. Un modelo está bien calibrado s
 * **Ejemplo:** Si un modelo predice una probabilidad del $80\%$ de lluvia para 100 días diferentes, debería llover en exactamente 80 de esos días.
 
 La UQ y la calibración garantizan que los sistemas de IA no solo sean precisos, sino también **honrados** sobre lo que saben y lo que no saben. Esto es indispensable para construir la confianza pública y permitir la implementación segura de la IA en entornos donde las fallas conllevan consecuencias catastróficas.
+
+
+---
+
+Continua: [[11-1-3]()] 

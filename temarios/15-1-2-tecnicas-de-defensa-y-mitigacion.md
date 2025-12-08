@@ -64,3 +64,8 @@ Los *inputs* se "limpian" antes de ser alimentados al modelo.
 ## 4. Conclusión
 
 La **Robustez Adversaria** no es un estado binario, sino un continuo. El **Entrenamiento Adversario** es la base más sólida para construir modelos resistentes, pero a menudo debe combinarse con **Técnicas de Detección de Entradas Atípicas** para manejar *inputs* que están completamente fuera de la distribución de entrenamiento y para mitigar ataques *Black-Box* más complejos. La investigación en este campo es una carrera armamentística constante entre atacantes y defensores.
+
+
+---
+
+Continua: [[15-2-1]()] 

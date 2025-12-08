@@ -77,4 +77,4 @@ Al pasar de un modelo FP32 sobredimensionado a un modelo INT8 podado y destilado
 
 ---
 
-Continua: [[7-3-1]()] 
+Continua: [[7-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-3-1-deteccion-deriva-de-datos.md)] 

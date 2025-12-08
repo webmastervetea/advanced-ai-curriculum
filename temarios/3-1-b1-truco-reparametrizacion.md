@@ -68,3 +68,8 @@ Los **Autoencoders Variacionales (VAE)** y las **Redes Generativas Antagónicas 
 | **Inferencia (*Encoding*)** | $\text{VAE}$ lo permite intrínsecamente ($\mathbf{x} \to \mathbf{z}$); $\text{GAN}$ requiere un modelo de inferencia separado. |
 
 En esencia, el VAE sacrifica una pequeña cantidad de calidad de salida a cambio de una **estructura latente más interpretable** y un **entrenamiento más estable**. El GAN, por otro lado, busca la excelencia visual a través de la competencia, lo que a menudo lo hace inestable y sin una forma nativa de mapear datos reales a códigos latentes.
+
+
+---
+
+Continua: [[3-2]()] 

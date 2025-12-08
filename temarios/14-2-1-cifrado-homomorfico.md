@@ -79,3 +79,8 @@ A pesar de la existencia de FHE, su adopción generalizada aún se ve limitada p
 * **Complejidad:** La implementación requiere conocimientos criptográficos avanzados.
 
 Sin embargo, la investigación está mejorando la eficiencia a un ritmo rápido (nuevos *hardware* especializados y *frameworks* optimizados como Microsoft SEAL o TFHE-rs). El Cifrado Homomórfico no es solo una curiosidad académica; es la tecnología clave para hacer realidad la **computación segura de IA** y la colaboración de datos sensibles en la nube.
+
+
+---
+
+Continua: [[14-2-2]()] 

@@ -72,3 +72,8 @@ La combinación de *embeddings* y Bases de Datos de Vectores impulsa una nueva g
 * **Mecanismo:** Al representar imágenes, texto y audio en un **espacio de *embedding* unificado**, la búsqueda vectorial permite realizar consultas complejas, como: "Muéstrame videos donde se habla de gatos" (buscar texto en un espacio de video) o "Busca imágenes similares a esta foto" (buscar imagen a imagen).
 
 En conclusión, la **Búsqueda Vectorial y las Bases de Datos de Vectores** son la tecnología subyacente que ha permitido a la IA moverse de la comprensión léxica superficial a la comprensión profunda y contextual del significado, haciendo que el *retrieval* a gran escala sea eficiente, preciso y semánticamente relevante.
+
+
+---
+
+Continua: [[13-1-1]()] 

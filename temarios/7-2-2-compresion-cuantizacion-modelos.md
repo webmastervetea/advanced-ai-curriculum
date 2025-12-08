@@ -73,3 +73,8 @@ En la práctica, estas técnicas se utilizan a menudo en secuencia para lograr l
 3.  **Cuantización:** Se convierten los pesos y activaciones resultantes a INT8.
 
 Al pasar de un modelo FP32 sobredimensionado a un modelo INT8 podado y destilado, se puede lograr una reducción de la memoria de **$20\times$ a $50\times$** y una aceleración de **$5\times$ a $10\times$** en la inferencia, lo que hace posible el *Edge AI* de alto rendimiento.
+
+
+---
+
+Continua: [[7-3-1]()] 

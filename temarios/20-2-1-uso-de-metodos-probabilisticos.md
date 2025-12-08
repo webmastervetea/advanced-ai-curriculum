@@ -73,4 +73,4 @@ El uso de estos métodos permite a los sistemas dinámicos operar de manera más
 
 ---
 
-Continua: [[20-2-2]()] 
+Continua: [[20-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-2-2-integracion-de-filtros-de-kalman.md)] 

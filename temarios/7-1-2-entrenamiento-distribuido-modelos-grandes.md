@@ -82,4 +82,4 @@ Al combinar el Paralelismo de Datos, las estrategias de Paralelismo de Modelos y
 
 ---
 
-Continua: [[7-2-1]()] 
+Continua: [[7-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/7-2-1-optimizacion-latencia-rendimiento-produccion.md)] 

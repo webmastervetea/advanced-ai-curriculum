@@ -66,4 +66,4 @@ La Privacidad Diferencial se ha convertido en el estándar de oro para el equili
 
 ---
 
-Continua: [[15-1-1]()] 
+Continua: [[15-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/15-1-1-generacion-de-ejemplos-adversarios.md)] 

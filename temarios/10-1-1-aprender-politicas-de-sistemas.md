@@ -67,4 +67,4 @@ En resumen, el Aprendizaje por Refuerzo *Offline* representa un cambio fundament
 
 ---
 
-Continua: [[10-2-1]()] 
+Continua: [[10-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/10-2-1-procesamiento-de-nubes-de-puntos.md)] 

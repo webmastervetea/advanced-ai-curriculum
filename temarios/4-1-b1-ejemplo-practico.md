@@ -73,4 +73,4 @@ Al mantener el cambio de política **dentro de un vecindario seguro** (el rango 
 
 ---
 
-Continua: [[5-1]()] 
+Continua: [[5-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/5-1-modelos-de-lenguaje-grandes-llms.md)] 

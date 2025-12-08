@@ -83,4 +83,4 @@ La Programación Diferenciable, combinada con la estructura relacional de los gr
 
 ---
 
-Continua: [[9-4-1]()] 
+Continua: [[9-4-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-4-1-usos-en-redes-sociales.md)] 

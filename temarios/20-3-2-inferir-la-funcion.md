@@ -62,3 +62,9 @@ IRL es vital en dominios donde el costo o el riesgo de la experimentación aleat
 * **Modelado de Agentes:** Entender por qué otros agentes (humanos o IA) en un Sistema Multi-Agente toman ciertas decisiones, infiriendo sus preferencias y objetivos.
 
 El Aprendizaje por Refuerzo Inverso transforma la imitación superficial en la comprensión de la verdadera intención, permitiendo a los agentes no solo copiar, sino también comprender y superar a sus maestros.
+
+
+---
+
+## Enorabuena has finalizado con exito los modulos 1 a 20 de Inteligencia Artificial
+Modulos: [[21-40]()] 

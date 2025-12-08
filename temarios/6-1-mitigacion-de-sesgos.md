@@ -69,3 +69,8 @@ El objetivo es ajustar el resultado final del modelo para garantizar la equidad 
 * **Interseccionalidad:** Los métodos de mitigación a menudo se centran en un único atributo (género o raza), ignorando los sesgos experimentados por subgrupos minoritarios múltiples (mujeres negras de bajos ingresos).
 
 La mitigación de sesgos es un proceso continuo que requiere un esfuerzo multidisciplinario y una supervisión constante para garantizar que los sistemas de IA sigan siendo justos y éticos después de la implementación.
+
+
+---
+
+Continua: [[6-2]()] 

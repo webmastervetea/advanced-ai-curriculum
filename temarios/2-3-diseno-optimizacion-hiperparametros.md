@@ -92,3 +92,8 @@ Existen varias bibliotecas y marcos que automatizan y facilitan la implementaci�
 
 Dominar la optimización de hiperparámetros es la diferencia entre un modelo funcional y un modelo que alcanza el **rendimiento de vanguardia**. Requiere experimentación metódica y el uso inteligente de las herramientas algorítmicas disponibles.
 
+
+
+---
+
+Continua: [[2-3-b1]()] 

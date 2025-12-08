@@ -103,5 +103,9 @@ Como el término KL ha obligado a que todas las representaciones latentes caigan
 
 Los VAE establecieron un puente crucial entre los métodos probabilísticos y las arquitecturas de redes neuronales, sentando las bases para gran parte del trabajo moderno en modelos generativos.
 
+
+
+
 ---
 
+Continua: [[3-1-b1]()] 

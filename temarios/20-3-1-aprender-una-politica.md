@@ -74,3 +74,8 @@ El Aprendizaje por Imitación es vital cuando:
 * **Se Requiere Comportamiento Humano:** Para la creación de avatares o NPCs que se muevan y actúen de manera realista.
 
 El Aprendizaje por Imitación proporciona un puente fundamental entre la experiencia humana y la automatización inteligente, permitiendo a los agentes adquirir habilidades complejas rápidamente y con un *feedback* de calidad garantizada desde el principio.
+
+
+---
+
+Continua: [[20-3-2]()] 

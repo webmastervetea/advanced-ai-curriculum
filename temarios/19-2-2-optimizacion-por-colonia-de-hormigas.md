@@ -69,4 +69,4 @@ En conclusión, los métodos bio-inspirados, con ACO a la cabeza para problemas 
 
 ---
 
-Continua: [[19-3-1]()] 
+Continua: [[19-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-3-1-tecnicas-para-resolver-problemas.md)] 

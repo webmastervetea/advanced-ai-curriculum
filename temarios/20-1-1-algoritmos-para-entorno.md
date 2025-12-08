@@ -69,4 +69,4 @@ En resumen, TD3 representa una mejora s√≥lida sobre DDPG, ofreciendo una soluci√
 
 ---
 
-Continua: [[20-1-2]()] 
+Continua: [[20-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-1-2-aplicacion-en-el-control-de-robots.md)] 

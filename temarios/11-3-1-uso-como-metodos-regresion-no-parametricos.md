@@ -74,4 +74,4 @@ En conclusión, la combinación de la flexibilidad predictiva y la rigurosa cuan
 
 ---
 
-Continua: [[12-1-1]()] 
+Continua: [[12-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/12-1-1-diseno-de-dialogos.md)] 

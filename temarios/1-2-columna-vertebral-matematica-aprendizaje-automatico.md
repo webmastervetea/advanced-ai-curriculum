@@ -80,4 +80,4 @@ El Cálculo Multivariable proporciona el **lenguaje** (el gradiente y la retropr
 
 Sin la sinergia entre el cálculo multivariable para el gradiente y estos optimizadores avanzados, el *Deep Learning* simplemente no sería viable a la escala y velocidad actuales.
 
-Continua: [[1.2.b1]()] 
+Continua: [[1-2-b1]()] 

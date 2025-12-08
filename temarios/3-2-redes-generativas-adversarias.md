@@ -105,4 +105,4 @@ En resumen, las GANs abrieron el camino para la generación de datos de alta fid
 
 ---
 
-Continua: [[3-3]()] 
+Continua: [[3-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/3-3-modelos-difusion.md)] 

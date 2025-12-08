@@ -80,4 +80,4 @@ Los métodos contrastivos han establecido el SSL como el nuevo estándar de fact
 
 ---
 
-Continua: [[8-1-2]()] 
+Continua: [[8-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/8-1-2-ssl-aplicado-a-vision-y-lenguaje.md)] 

@@ -49,4 +49,7 @@ En lugar de recalcular cada derivada desde cero para cada peso (lo que sería co
 2.  **Gradientes Desaparecientes/Explosivos:** La dependencia en la multiplicación de derivadas locales explica el problema de los gradientes que desaparecen o explotan. Si muchas derivadas locales son muy pequeñas (como en la región plana de una función Sigmoide), el gradiente final $\frac{\partial L}{\partial w}$ se acerca a cero, deteniendo el aprendizaje. Si son demasiado grandes, explota, causando inestabilidad. Esto llevó a la adopción de arquitecturas y funciones de activación como ReLU.
 
 La Retropropagación transforma el arduo trabajo de aplicar la Regla de la Cadena a millones de variables en un procedimiento sistemático y repetible, haciendo posible la revolución del aprendizaje automático profundo.
-Continua 1-2-b2: [[]()]
+
+---
+
+Continua: [[1-2-b2]()] 

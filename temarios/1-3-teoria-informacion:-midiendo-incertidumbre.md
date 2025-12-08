@@ -81,4 +81,6 @@ La Teoría de la Información, con sus pilares de entropía e información mutua
 
 En resumen, la Teoría de la Información trascendió la ingeniería para convertirse en un marco matemático universal para comprender la incertidumbre, la aleatoriedad y la relación entre variables, sentando las bases de toda la era de la información.
 
-Continua : [[]()]
+---
+
+Continua: [[1-3-b1]()] 

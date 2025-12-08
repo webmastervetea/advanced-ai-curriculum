@@ -79,3 +79,8 @@ El modelo debe tener una política de actualización clara:
 * **Versionado de Modelos:** Utilizar un **Registro de Modelos (*Model Registry*)** centralizado para versionar todos los modelos, permitiendo la **vuelta atrás (*rollback*)** instantánea a una versión anterior estable si la versión actual falla.
 
 Asegurar la confiabilidad a largo plazo requiere tratar el modelo como un producto de *software* crítico, integrándolo en un robusto *pipeline* de MLOps que priorice el monitoreo sobre el desarrollo inicial.
+
+
+---
+
+Continua: [[16-1-1]()] 

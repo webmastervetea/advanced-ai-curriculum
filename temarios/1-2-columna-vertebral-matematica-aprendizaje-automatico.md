@@ -82,4 +82,4 @@ Sin la sinergia entre el cálculo multivariable para el gradiente y estos optimi
 
 ---
 
-Continua: [[1-2-b1]()] 
+Continua: [[1-2-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-b1-retropropagacion-arte-cadena-aplicada.md)] 

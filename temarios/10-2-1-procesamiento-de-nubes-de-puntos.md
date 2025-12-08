@@ -71,3 +71,8 @@ Tanto el procesamiento directo (PointNet) como la voxelización son esenciales e
     * **Mapeo de Entornos:** Crear modelos digitales de edificios o terrenos a partir de escaneo láser (LiDAR).
     * **Realidad Aumentada/Virtual:** Generación de modelos 3D a partir de cámaras de profundidad (RGB-D).
 * **Análisis Médico:** Procesamiento de datos de resonancia magnética o tomografía computarizada (que a menudo se representan como vóxeles) para segmentar tumores u órganos.
+
+
+---
+
+Continua: [[10-2-2]()] 

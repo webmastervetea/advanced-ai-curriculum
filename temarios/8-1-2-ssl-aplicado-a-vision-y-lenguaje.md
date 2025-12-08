@@ -68,3 +68,8 @@ El éxito del Aprendizaje Auto-Supervisado se debe a que permite a los modelos a
 | **Lenguaje** | Enmascaramiento (BERT) y Causal (GPT) | Los modelos aprenden representaciones contextuales y conocimiento fáctico. |
 
 En ambos campos, el modelo pre-entrenado mediante SSL captura una base de conocimiento sólida. El *fine-tuning* posterior solo necesita unas pocas miles de etiquetas para ajustar el modelo a una tarea específica, logrando una **eficiencia de datos** y una **transferencia de conocimiento** sin precedentes.
+
+
+---
+
+Continua: [[8-2-1]()] 

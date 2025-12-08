@@ -74,4 +74,4 @@ La Programación Diferenciable es más que una técnica; es un cambio de paradig
 
 ---
 
-Continua: [[9-2-2]()] 
+Continua: [[9-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-2-2-aplicaciones-en-optimizacion-de-algoritmos-complejos.md)] 

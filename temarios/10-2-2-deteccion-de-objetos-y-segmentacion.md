@@ -69,3 +69,8 @@ La detección y la segmentación 3D impulsan la interacción realista en RA:
 ## 4. Conclusión
 
 El futuro de la percepción 3D se dirige hacia la **fusión de sensores (*Sensor Fusion*)**, combinando los datos LiDAR de alta precisión geométrica con las imágenes RGB de alta resolución de las cámaras. Esto permite modelos que son robustos, precisos y eficientes, esenciales para llevar la IA de la visión espacial desde el laboratorio hasta las calles y los dispositivos de consumo masivo.
+
+
+---
+
+Continua: [[10-3-1]()] 

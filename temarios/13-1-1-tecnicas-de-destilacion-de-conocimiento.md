@@ -78,3 +78,8 @@ Este enfoque transfiere el conocimiento al exigir al Estudiante que capture las 
 * **Servicios Web de Baja Latencia:** Reducir la latencia de respuesta para sistemas de recomendación o reconocimiento de voz en servidores.
 
 En resumen, la Destilación de Conocimiento es una herramienta esencial en el *Deep Learning* moderno, que permite a las organizaciones aprovechar la complejidad y la precisión de los modelos más grandes mientras cumplen con las estrictas demandas de eficiencia y velocidad de los sistemas en producción.
+
+
+---
+
+Continua: [[13-1-2]()] 

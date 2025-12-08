@@ -57,5 +57,5 @@ En resumen, la Optimización Bayesiana proporciona la inteligencia necesaria par
 
 ---
 
-Continua: [[19-1-2-b1]()] 
+Continua: [[19-1-2-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/19-1-2-b1-funcion-de-adquisicion.md)] 
 

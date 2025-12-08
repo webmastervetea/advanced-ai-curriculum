@@ -68,4 +68,4 @@ La investigación actual se centra en diseñar Ansätze que eviten esta meseta y
 
 ---
 
-Continua: [[17-2-2]()] 
+Continua: [[17-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/17-2-2-redes-neuronales-cuanticas.md)] 

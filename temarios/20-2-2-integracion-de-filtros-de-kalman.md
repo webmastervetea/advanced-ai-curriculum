@@ -53,3 +53,8 @@ La integración KF-NN es crucial en áreas de alta criticidad:
 * **Control de Robots:** La NN modela la compleja e inexacta dinámica de fricción y par en las articulaciones, y el KF proporciona la estimación de posición más limpia y menos ruidosa al controlador.
 
 La combinación de la estructura probabilística del Filtro de Kalman con la flexibilidad de las Redes Neuronales crea un estimador de estado que es simultáneamente preciso, robusto y adaptable a la no linealidad, ofreciendo lo mejor de la inferencia basada en modelos y la inferencia basada en datos.
+
+
+---
+
+Continua: [[20-3-1]()] 

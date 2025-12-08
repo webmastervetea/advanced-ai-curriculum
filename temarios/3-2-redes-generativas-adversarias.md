@@ -101,3 +101,8 @@ Las GANs son responsables de algunos de los resultados más visualmente impactan
 * **Generación de Datos Sintéticos:** Creación de conjuntos de datos de entrenamiento realistas para tareas como la visión por computadora o el *Deep Learning* en física.
 
 En resumen, las GANs abrieron el camino para la generación de datos de alta fidelidad, y arquitecturas como WGAN y CycleGAN resolvieron problemas fundamentales de estabilidad y dependencia de datos, solidificando su lugar como una herramienta esencial en la IA generativa.
+
+
+---
+
+Continua: [[3-3]()] 

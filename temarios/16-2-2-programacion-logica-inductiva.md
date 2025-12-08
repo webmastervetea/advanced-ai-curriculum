@@ -71,4 +71,4 @@ La Programación Lógica Inductiva proporciona una vía para que la IA no solo r
 
 ---
 
-Continua: [[17-1-1]()] 
+Continua: [[17-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/17-1-1-conceptos-de-qubits.md)] 

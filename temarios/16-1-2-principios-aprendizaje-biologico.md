@@ -68,3 +68,8 @@ La aplicación de la plasticidad sináptica busca resolver algunos de los mayore
 | **Temporalidad** | Mejora la capacidad de los modelos para procesar y aprender de **datos secuenciales** y *event-driven* (ej. sensores, audio en tiempo real). |
 
 Al pasar de la optimización matemática global (*Backpropagation*) a los principios de adaptación y auto-organización locales (*Plasticidad Sináptica*), la IA se acerca a sistemas que son no solo potentes, sino también sostenibles y capaces de evolucionar de manera autónoma en entornos dinámicos.
+
+
+---
+
+Continua: [[16-2-1]()] 

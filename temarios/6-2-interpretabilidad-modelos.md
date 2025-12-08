@@ -76,3 +76,8 @@ Más allá de SHAP y LIME, que son fundamentales, existen otras herramientas y c
 * **Interpretabilidad Intrínseca:** Utilizar modelos inherentemente transparentes, como Árboles de Decisión simples, Regresión Lineal o modelos de **Atención** en los Transformadores, donde las matrices de atención sirven como un *proxy* natural de la importancia de la característica.
 
 La combinación de estas técnicas permite al analista responder no solo a "¿Qué tan bien predice el modelo?" sino, crucialmente, a "¿Por qué el modelo tomó esa decisión específica?".
+
+
+---
+
+Continua: [[6-3]()] 

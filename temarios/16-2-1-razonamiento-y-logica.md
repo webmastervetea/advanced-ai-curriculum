@@ -80,4 +80,4 @@ La IA Híbrida abandona la dicotomía histórica entre el procesamiento numéric
 
 ---
 
-Continua: [[16-2-2]()] 
+Continua: [[16-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/16-2-2-programacion-logica-inductiva.md)] 

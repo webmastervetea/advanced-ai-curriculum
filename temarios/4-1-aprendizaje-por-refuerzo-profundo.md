@@ -98,4 +98,4 @@ La combinación de estas técnicas ha llevado a avances en robótica, juegos com
 
 ---
 
-Continua: [[4-1-b1]()] 
+Continua: [[4-1-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/4-1-b1-ejemplo-practico.md)] 

@@ -78,4 +78,4 @@ Al cambiar el enfoque de "dar la respuesta correcta" a "dar la respuesta más pr
 
 ---
 
-Continua: [[11-1-2]()] 
+Continua: [[11-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/11-1-2-cuantificacion-de-la-incertidumbre.md)] 

@@ -70,4 +70,7 @@ Esta fórmula tiene implicaciones profundas:
 2.  **La Calidad de la Señal Importa ($S/N$):** Mejorar la relación señal a ruido aumenta la capacidad logarítmicamente.
 3.  **El Límite Absoluto:** La fórmula establece un **límite superior teórico** para la tasa de datos, sin importar la complejidad de la tecnología utilizada. Las tecnologías modernas (como el 5G y el Wi-Fi 6) se esfuerzan por acercarse a este límite de Shannon.
 
-Continua : [[]()]
+
+---
+
+Continua: [[2-1]()] 

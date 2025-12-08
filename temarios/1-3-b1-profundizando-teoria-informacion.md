@@ -73,4 +73,4 @@ Esta fórmula tiene implicaciones profundas:
 
 ---
 
-Continua: [[2-1]()] 
+Continua: [[2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/2-1-redes-neuronales-recurrentes-memoria-maquinas.md)] 

@@ -108,4 +108,4 @@ Los VAE establecieron un puente crucial entre los métodos probabilísticos y la
 
 ---
 
-Continua: [[3-1-b1]()] 
+Continua: [[3-1-b1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/3-1-b1-truco-reparametrizacion.md)] 

@@ -77,4 +77,4 @@ La UQ y la calibración garantizan que los sistemas de IA no solo sean precisos,
 
 ---
 
-Continua: [[11-1-3]()] 
+Continua: [[11-1-3](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/11-1-3-metodos-de-monte-carlo-de-cadena-markov.md)] 

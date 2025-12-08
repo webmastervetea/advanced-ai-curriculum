@@ -52,4 +52,4 @@ La Retropropagación transforma el arduo trabajo de aplicar la Regla de la Caden
 
 ---
 
-Continua: [[1-2-b2]()] 
+Continua: [[1-2-b2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-b2-ejemplo-numerico-retropropagacion.md)] 

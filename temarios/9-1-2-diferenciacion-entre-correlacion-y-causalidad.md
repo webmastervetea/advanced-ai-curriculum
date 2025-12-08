@@ -76,3 +76,8 @@ Los modelos predictivos de *Machine Learning* (regresión, clasificación) se ba
 * **Robustez:** Un modelo predictivo puede fallar cuando el entorno de producción cambia ligeramente. Los modelos causales, al basarse en mecanismos (el **Cálculo Do ($\text{do}(\cdot)$)**), son teóricamente más **robustos** a los cambios externos, siempre y cuando el mecanismo causal permanezca intacto.
 
 En conclusión, la correlación es el punto de partida, pero la **causalidad es el destino** para cualquier decisión que busque **cambiar** o **mejorar** un sistema. Si el objetivo es predecir un resultado, la correlación es suficiente; si el objetivo es obtener una palanca para la acción (una intervención), la causalidad es indispensable.
+
+
+---
+
+Continua: [[9-2-1]()] 

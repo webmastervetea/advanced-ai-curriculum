@@ -75,4 +75,4 @@ La lucha entre los ataques adversarios y las defensas es un campo activo y esenc
 
 ---
 
-Continua: [[15-1-2]()] 
+Continua: [[15-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/15-1-2-tecnicas-de-defensa-y-mitigacion.md)] 

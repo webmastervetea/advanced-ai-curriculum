@@ -75,4 +75,4 @@ Tanto el procesamiento directo (PointNet) como la voxelización son esenciales e
 
 ---
 
-Continua: [[10-2-2]()] 
+Continua: [[10-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/10-2-2-deteccion-de-objetos-y-segmentacion.md)] 

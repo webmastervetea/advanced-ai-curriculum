@@ -76,4 +76,4 @@ El Meta-Aprendizaje representa un paso clave hacia la **Inteligencia Artificial 
 
 ---
 
-Continua: [[18-3-1]()] 
+Continua: [[18-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/18-3-1-diseno-de-agentes-autonomos.md)] 

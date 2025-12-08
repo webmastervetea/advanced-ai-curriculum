@@ -69,4 +69,4 @@ La detección y mitigación de la deriva son componentes esenciales del **ciclo 
 
 ---
 
-Continua: [[15-2-2]()] 
+Continua: [[15-2-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/15-2-2-metodos-para-asegurar-la-confiabilidad.md)] 

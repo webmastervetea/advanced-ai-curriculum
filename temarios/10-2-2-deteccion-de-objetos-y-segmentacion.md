@@ -73,4 +73,4 @@ El futuro de la percepción 3D se dirige hacia la **fusión de sensores (*Sensor
 
 ---
 
-Continua: [[10-3-1]()] 
+Continua: [[10-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/10-3-1-descubrimiento-de-farmacos.md)] 

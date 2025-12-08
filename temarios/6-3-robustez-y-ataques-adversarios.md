@@ -85,4 +85,4 @@ Este compromiso subraya que el desarrollo de la IA no se trata solo de maximizar
 
 ---
 
-Continua: [[6-4]()] 
+Continua: [[6-4](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/6-4-regulacion-de-la-ia.md)] 

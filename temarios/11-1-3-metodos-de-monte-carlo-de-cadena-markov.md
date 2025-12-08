@@ -60,3 +60,8 @@ La elección entre MCMC y VI depende del contexto:
 * **VI es el estándar de facto** en el **Aprendizaje Profundo Bayesiano (BDL)** debido a sus requisitos de escalabilidad y velocidad.
 
 Las tendencias modernas, como el **Hamiltonian Monte Carlo (HMC)** (una versión de MCMC que utiliza gradientes) y el **MCMC No Convergente** (MCMC ejecutado por un número limitado de pasos para mejorar la calidad de las muestras de VI), buscan fusionar las ventajas de ambos, logrando un equilibrio entre precisión y velocidad.
+
+
+---
+
+Continua: [[11-2-1]()] 

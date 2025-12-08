@@ -70,3 +70,8 @@ Los *frameworks* de *Deep Learning* (PyTorch, TensorFlow) son esencialmente ento
 * **Memoria:** El *Reverse Mode* (Backpropagation) requiere almacenar los valores intermedios (activaciones) del *forward pass* para calcular el *backward pass*, lo que puede ser muy costoso en memoria para modelos muy profundos o grandes.
 
 La Programación Diferenciable es más que una técnica; es un cambio de paradigma que permite a los desarrolladores tratar la optimización como una característica del lenguaje de programación, abriendo la puerta a sistemas de IA y control que pueden auto-optimizarse en casi cualquier dominio complejo.
+
+
+---
+
+Continua: [[9-2-2]()] 

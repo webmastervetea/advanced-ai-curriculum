@@ -69,3 +69,8 @@ El filtrado probabilístico es esencial para:
 * **Sistemas de Control:** En lazo cerrado, el filtro proporciona la estimación de estado más limpia posible, lo que permite al controlador tomar acciones más precisas.
 
 El uso de estos métodos permite a los sistemas dinámicos operar de manera más confiable y eficiente a pesar de la inherente imperfección de los sensores y la complejidad del mundo real.
+
+
+---
+
+Continua: [[20-2-2]()] 

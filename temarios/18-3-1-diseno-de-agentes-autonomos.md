@@ -78,3 +78,8 @@ El diseño debe considerar cómo las interacciones pueden ser explotadas por act
 * **Equidad de la Política:** Asegurar que las políticas de interacción no resulten en un trato desigual o discriminatorio hacia ciertos agentes o grupos de usuarios.
 
 El diseño de agentes autónomos y su interacción está evolucionando rápidamente, pasando de la optimización de un solo sistema a la creación de ecosistemas complejos y cooperativos capaces de realizar tareas sofisticadas en el mundo real.
+
+
+---
+
+Continua: [[18-3-2]()] 

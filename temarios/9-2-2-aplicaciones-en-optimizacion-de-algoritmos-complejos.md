@@ -82,4 +82,4 @@ En resumen, la optimización no es solo una herramienta, sino el **lenguaje mate
 
 ---
 
-Continua: [[9-3-1]()] 
+Continua: [[9-3-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-3-1-aplicacion-de-deep-learning-a-datos-no-euclidiano.md)] 

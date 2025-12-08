@@ -77,4 +77,4 @@ Juntos, estos tres conceptos permiten a la computación cuántica manipular la i
 
 ---
 
-Continua: [[17-1-2]()] 
+Continua: [[17-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/17-1-2-algoritmos-cuanticos.md)] 

@@ -64,4 +64,4 @@ Las tendencias modernas, como el **Hamiltonian Monte Carlo (HMC)** (una versión
 
 ---
 
-Continua: [[11-2-1]()] 
+Continua: [[11-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/11-2-1-tecnicas-para-descubrir-estructuras-ocultas.md)] 

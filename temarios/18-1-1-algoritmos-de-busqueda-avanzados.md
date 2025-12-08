@@ -70,4 +70,4 @@ La combinación de la eficiencia de búsqueda de MCTS con la percepción profund
 
 ---
 
-Continua: [[10-1-2]()] 
+Continua: [[10-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/18-1-2-planificacion-basada-en-modelo.md)] 

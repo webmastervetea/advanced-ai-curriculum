@@ -76,4 +76,4 @@ La gestión de la deriva requiere un sólido *pipeline* de **MLOps** que automat
 
 ---
 
-Continua: [[8-1-1]()] 
+Continua: [[8-1-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/8-1-1-tecnicas-basadas-en-contrastes.md)] 

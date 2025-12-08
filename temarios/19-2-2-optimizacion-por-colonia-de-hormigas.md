@@ -65,3 +65,8 @@ Existen otros metaheurísticos que imitan procesos biológicos o sociales y que 
 * **Ventaja:** Eficaz en la **optimización multimodal** (funciones con múltiples óptimos), ya que las subpoblaciones de luciérnagas pueden congregarse alrededor de diferentes picos de *fitness*.
 
 En conclusión, los métodos bio-inspirados, con ACO a la cabeza para problemas discretos de ruteo, demuestran que la naturaleza ofrece paradigmas robustos para resolver problemas complejos que desafían las técnicas de optimización deterministas tradicionales.
+
+
+---
+
+Continua: [[19-3-1]()] 

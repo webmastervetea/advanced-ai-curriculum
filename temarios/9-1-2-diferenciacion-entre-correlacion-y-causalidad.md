@@ -80,4 +80,4 @@ En conclusión, la correlación es el punto de partida, pero la **causalidad es 
 
 ---
 
-Continua: [[9-2-1]()] 
+Continua: [[9-2-1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/9-2-1-concepto-de-que-cualquier-programa-ser-diferenciable.md)] 

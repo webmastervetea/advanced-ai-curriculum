@@ -67,4 +67,4 @@ Las SNNs no buscan solo replicar la precisión de las ANNs, sino su **eficiencia
 
 ---
 
-Continua: [[16-1-2]()] 
+Continua: [[16-1-2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/16-1-2-principios-aprendizaje-biologico.md)] 

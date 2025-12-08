@@ -65,3 +65,8 @@ Los agentes a menudo se entrenan en simulaciones (donde el entrenamiento es ráp
 El control de sistemas de potencia requiere decisiones en el orden de los milisegundos. La política aprendida (la red neuronal del Actor) debe ser lo suficientemente ligera para ejecutarse rápidamente sin latencia.
 
 En conclusión, DDPG, TD3 y sus derivados son herramientas vitales que están impulsando la capacidad de la IA para controlar sistemas dinámicos complejos. Su enfoque en la acción continua los convierte en la solución ideal para la próxima generación de robots y la gestión adaptativa de infraestructuras críticas.
+
+
+---
+
+Continua: [[20-2-1]()] 

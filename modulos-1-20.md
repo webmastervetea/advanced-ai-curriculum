@@ -1,7 +1,7 @@
 # Temario de Inteligencia Artificial Avanzada: Modelos, Deep Learning y Sistemas de Agentes [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 ## Modulos IA 1 a 20
 
-### 📚 Temas Avanzados
+### 📚 Temas Avanzados 
 #### 1. Fundamentos Matemáticos y Estadísticos Avanzados 
 * [[1.1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-1-algebra-lineal-el-fundamento-de-las-redes-neuronales.md)]  **Álgebra Lineal** para redes neuronales (Descomposición en valores singulares - **SVD**, tensores).
 * [[1.2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/1-2-columna-vertebral-matematica-aprendizaje-automatico.md)]  **Cálculo Multivariable** y **Optimización** (descenso de gradiente estocástico avanzado, optimizadores **ADAM**, **RMSprop**).
@@ -156,6 +156,7 @@
 * 20.3 **Aprendizaje por Imitación (*Imitation Learning*) y Aprendizaje Inverso (*Inverse Reinforcement Learning - IRL*):**
     * [[20.3.1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-1-aprender-una-politica.md)] Aprender una política directamente a partir de demostraciones de expertos.
     * [[20.3.2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-2-inferir-la-funcion.md)] Inferir la función de recompensa subyacente de un experto.
+
 
 
 

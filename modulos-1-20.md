@@ -157,6 +157,7 @@
     * [[20.3.1](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-1-aprender-una-politica.md)] Aprender una política directamente a partir de demostraciones de expertos.
     * [[20.3.2](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/temarios/20-3-2-inferir-la-funcion.md)] Inferir la función de recompensa subyacente de un experto.
 
+[[Modulos 21 a 60](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-21-60.md)]
 
 
 

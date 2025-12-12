@@ -9,4 +9,4 @@ Cubre temas esenciales como el **Deep Learning** (aprendizaje profundo), los **m
 
 El objetivo es proporcionar una base sólida para que los estudiantes y profesionales puedan desarrollar e implementar sistemas de IA sofisticados y responsables.
 
-[[Modulos 1 a 20](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-1-20.md)], [[Modulos 21 a 60](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-21-60.md)], [[Modulos 61 a 100](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-61-100.md)]
+[[Modulos 1 a 20](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-1-20.md)] [[Modulos 21 a 60](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-21-60.md)] [[Modulos 61 a 100](https://github.com/webmastervetea/advanced-ai-curriculum/blob/main/modulos-61-100.md)]
